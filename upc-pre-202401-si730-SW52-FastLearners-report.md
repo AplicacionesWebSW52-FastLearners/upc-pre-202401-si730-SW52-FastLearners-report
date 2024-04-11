@@ -2,14 +2,14 @@
 
 # INGENIERÍA DE SOFTWARE
 
-## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW58
- Profesor: Efrain Ricardo Bautista Ubillus
+## CURSO: SI730 Aplicaciones Web | SECCIÓN SW52
+ Profesor: Juan Carlos Tinoco Licas
 
 # Informe de TB1
 **Startup:** FastLearners
 
 ### Integrantes:
-- Javier Murillo, Mathias - u202022211
+
 - Orrego Noriega, Jorge David - u201921734
 - Ochoa Colonio, Carlos Alberto - u202315945
 - Pachas Chavez, Alejandro Alberto - u201917598
@@ -19,21 +19,16 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 25/03/2024 |Grupo 4 |Se crea el documento |
+| 0.0 | xx/xx/2024 |Grupo 4 |Se crea el documento |
 
 # Project Report Collaboration Insights
 
-<img src="assets/images/Commits TB1v2.png" alt="Commits TB1v2" style="width:100%;">
-
-![URL del repositorio](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
-
-En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no estaba agregada a la organización. 
 
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> Mathias Javier: <br> *TB1:*  wireframes de la Landing Page.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web. <br>Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management<br>  Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web.Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
@@ -51,7 +46,7 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Javier Murillo, Mathias <img src="assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
+|Nombre del participante <img src="assets/pictures profiles/test.jpg" alt="Imagen del compañero" style="width:60%">|uxxxxxxxxx|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
 |Ochoa Colonio, Carlos Alberto <img src="assets/pictures profiles/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
@@ -1008,15 +1003,13 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 
 | Alumno | Actividad |
 |--------|-----------|
-| Javier Murillo, Mathias| Desarrollo del Capítulo II y desarrollo del Landing Page |
 | Orrego Noriega, Jorge David | Desarrollo del Capítulo IV (Style Guidelines, Information Architecture, Landing Page UI Design, Web Applications UX/UI Design, Web Applications Prototyping ) y V. Desarrollo de la Landing Page |
 | Ochoa Colonio, Carlos Alberto | Desarrollo del Capítulo I y elaboración de la Landing Page |
 | Pachas Chavez, Alejandro Alberto | Desarrollo del Capítulo III y V|
 | Mendez Rosales, Marco Aurelio | Desarrollo del Capítulo IV (Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design)|
 
-<img src="assets/images/Commits.png" alt="Commits" style="width:100%;">
 
-![Ver todos los commits en GitHub](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/)
+![Ver todos los commits en GitHub]()
 
 # Conclusiones y recomendaciones.
 
