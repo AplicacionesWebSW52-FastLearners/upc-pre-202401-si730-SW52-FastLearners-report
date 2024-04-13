@@ -51,6 +51,7 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 |Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
 |Ochoa Colonio, Carlos Alberto <img src="assets/pictures profiles/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
 |Mendez Rosales, Marco Aurelio <img src = "assets/pictures profiles/marco.png" alt="Imagen del compañero" style="width:60%">|u202018273|Ingenieria de software|C++, Python, SQL, Azure, Trabajador|
+|Olivera Guerra, Santiago Mickelle <img src = "assets/pictures profiles/Santiago.jpeg" alt="Imagen del compañero" style="width:60%">|u20201a821|Ingenieria de software|C++, Python, SQL, Azure, Trabajador y Amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 
 ## 1.2. Solution Profile
