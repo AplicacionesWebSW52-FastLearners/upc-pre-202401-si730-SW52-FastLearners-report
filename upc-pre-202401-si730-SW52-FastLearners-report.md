@@ -14,6 +14,7 @@
 - Ochoa Colonio, Carlos Alberto - u202315945
 - Pachas Chavez, Alejandro Alberto - u201917598
 - Mendez Rosales, Marco Aurelio - u202018273
+- Olivera Guerra, Santiago Mickelle - u20201a821
 
 ---
 # Registro de Versiones del Informe
