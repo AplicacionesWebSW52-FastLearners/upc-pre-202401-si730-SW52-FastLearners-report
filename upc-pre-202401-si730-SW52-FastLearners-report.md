@@ -210,6 +210,13 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 3. ¿Estarias interesado en compartir tu experiencia en distintas tecnologias con un publico abierto?
 4. ¿Conoces alguna plataforma que facilite el aprendizaje cooperativo?
 
+**Entrevistas Desarrollador Experto**
+1. ¿Qué herramientas o recursos te gustaría tener a tu disposición para enseñar cursos básicos en una plataforma en línea? 
+2. ¿Qué aspectos de tu experiencia universitaria crees que podrían ser mejorados con el uso de una plataforma de aprendizaje en línea?
+3. ¿Cuáles son los mayores obstáculos que enfrentas al enseñar de manera tradicional, y cómo crees que una plataforma en línea podría ayudarte a superarlos?
+4. ¿Qué funcionalidades consideras imprescindibles en una plataforma de aprendizaje en línea para facilitar la enseñanza y mejorar la experiencia de aprendizaje de los estudiantes?
+   
+
 ### 2.2.2. Registro de entrevistas.
 **Desarrollador Principiante**  
 Nombre: Pablo Cieza de Leon
@@ -224,11 +231,21 @@ Edad: 30 años
 Ocupación: Desarrollador de Software en C++ 
 <img src="assets/images/Entrevista2.png" alt="Mapa de impacto" style="width:100%;">
 
+
+**Estudiante/Junior**  
+Nombre: Angelo Arevalo
+Edad: 21 años 
+Ocupación: Desarrollador de Software en Python 
+<img src="assets/images/Entrevista_Santiago_Olivera.png" alt="Mapa de impacto" style="width:100%;">
+
+
 ### 2.2.3. Análisis de entrevistas.
 **Desarrollador Principiante:**
 En esta entrevista tuvimos la oportunidad de entrevistar a Andres, el es un desarrollador de software en JavaScript, en este momento esta haciendo sus practicas en una empresa de desarrollo, como el nos comenta es principiante en el desarrollo en JS. El nos comenta que es muy complicado encontrar alguna plataforma en la cual pueda encontrar documentos multimedia, con los cuales poder mejorar sus habilidades. Tambien nos dice que estaria interesado en poder encontrar algun foro en el cual se pueda hacer consultas a desarrolladores expertos, sobre sus problemas o dudas. 
 **Desarrollador Experto:**
 En esta ocasion tuvimos el placer de conversar con Rodrigo, el cuenta con mas de 8 años desarrollando software con el lenguaje C++, el nos comenta que en sus inicios le fue muy complicado encontrar donde aprender o mejorar sus habilidades y que le gusta la idea de contar con una plataforma en la cual pueda compartir los documentos que cree que le pueden subir a sus compañeros desarrolladores principiantes o menos experimentados y al mismo tiempo poder poder resolver sus consultas. 
+**Estudiante Junior:**
+En esta oportunidad, el estudiante de ciclos superriores destaca la importancia de herramientas interactivas y recursos multimedia para hacer el aprendizaje dinámico, además de un sistema de seguimiento del progreso y retroalimentación personalizada. En segundo plano, enfatiza  la flexibilidad en tiempo y espacio como ventajas puntuales en una plataforma en línea. Su enfoque en la enseñanza del lenguaje Python y las facilidades de este en comparaciòn de otros lenguajes, demuestra su interés en crear una experiencia educativa adaptada a las necesidades de estudiantes con menor nivel de conocimiento.
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
