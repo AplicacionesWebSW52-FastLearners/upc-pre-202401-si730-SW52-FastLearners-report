@@ -559,93 +559,106 @@ Conoce más:
 #### Desktop Mockup:
 
 Página principal:
-<img src="assets/images/capituloIV/LandingPageMK1.png" alt="Landing Page MK" style="width:100%;">
+<img src="assets/capituloIV/LandingPageMK1.png" alt="Landing Page MK" style="width:100%;">
 
 Acerca de nosotros: 
-<img src="assets/images/capituloIV/LandingPageMK2.png" alt="Landing Page MK" style="width:100%;">
+<img src="assets/capituloIV/LandingPageMK2.png" alt="Landing Page MK" style="width:100%;">
 
 Planes de suscripción: 
-<img src="assets/images/capituloIV/LandingPageMK3.png" alt="Landing Page MK" style="width:100%;">
+<img src="assets/capituloIV/LandingPageMK3.png" alt="Landing Page MK" style="width:100%;">
 
 Conoce más:
-<img src="assets/images/capituloIV/LandingPageMK4.png" alt="Landing Page MK" style="width:100%;">
+<img src="assets/capituloIV/LandingPageMK4.png" alt="Landing Page MK" style="width:100%;">
 
 #### Mobile Mockup: 
 
-<img src="assets/images/capituloIV/LandingPageMKM1.png" alt="Landing Page MK" style="width:80%;">
+<img src="assets/capituloIV/LandingPageMKMobile1.png" alt="Landing Page MK" style="width:80%;">
 
-<img src="assets/images/capituloIV/LandingPageMKM2.png" alt="Landing Page MK" style="width:80%;">
+<img src="assets/capituloIV/LandingPageMKMobile2.png" alt="Landing Page MK" style="width:80%;">
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
 #### Desktop Wireframes: 
 
-Inicio de sesión:
-<img src="assets/images/capituloIV/WebAppWF1.png" alt="WebApp WF" style="width:100%;">
+**Inicio de sesión:**
+<img src="assets/capituloIV/WebAppWF1.png" alt="WebApp WF" style="width:100%;">
 
-Registro de usuario:
-<img src="assets/images/capituloIV/WebAppWF2.png" alt="WebApp WF" style="width:100%;">
+**Registro de usuario:**
+<img src="assets/capituloIV/WebAppWF2.png" alt="WebApp WF" style="width:100%;">
 
-Planes de suscripción: 
-<img src="assets/images/capituloIV/WebAppWF3.png" alt="WebApp WF" style="width:100%;">
+**Planes de suscripción:** 
+<img src="assets/capituloIV/WebAppWF3.png" alt="WebApp WF" style="width:100%;">
 
-Añadir pago por tarjeta:
-<img src="assets/images/capituloIV/WebAppWF4.png" alt="WebApp WF" style="width:100%;">
+**Añadir pago por tarjeta:**
+<img src="assets/capituloIV/WebAppWF4.png" alt="WebApp WF" style="width:100%;">
 
-Menu Principal:
-<img src="assets/images/capituloIV/WebAppWF5.png" alt="WebApp WF" style="width:100%;">
+**Menu Principal:**
+<img src="assets/capituloIV/WebAppWF5.png" alt="WebApp WF" style="width:100%;">
 
-Foro de la comunidad:
-<img src="assets/images/capituloIV/WebAppWF6.png" alt="WebApp WF" style="width:100%;">
+**Foro de la comunidad:**
+<img src="assets/capituloIV/WebAppWF6.png" alt="WebApp WF" style="width:100%;">
 
-Buscador de repositorios y documentos: 
-<img src="assets/images/capituloIV/WebAppWF7.png" alt="WebApp WF" style="width:100%;">
+**Buscador de repositorios y documentos:** 
+<img src="assets/capituloIV/WebAppWF7.png" alt="WebApp WF" style="width:100%;">
 
-Portal de material multimedia:
-<img src="assets/images/capituloIV/WebAppWF8.png" alt="WebApp WF" style="width:100%;">
+**Portal de material multimedia:**
+<img src="assets/capituloIV/WebAppWF8.png" alt="WebApp WF" style="width:100%;">
 
-Configuración de cuenta (Usuario):
-<img src="assets/images/capituloIV/WebAppWF9.png" alt="WebApp WF" style="width:100%;">
+**Crear repositorio:**
+<img src="assets/capituloIV/WebAppWF9.png" alt="WebApp WF" style="width:100%;">
 
-Crear repositorio: 
-<img src="assets/images/capituloIV/WebAppWF10.png" alt="WebApp WF" style="width:100%;">
+**Subir contenido (Docentes):**
+<img src="assets/capituloIV/WebAppWF10.png" alt="WebApp WF" style="width:100%;">
 
-Subir contenido (Docentes):
-<img src="assets/images/capituloIV/WebAppWF11.png" alt="WebApp WF" style="width:100%;">
+**Configuración de cuenta (Docentes):**
+<img src="assets/capituloIV/WebAppWF11.png" alt="WebApp WF" style="width:100%;">
 
-Configuración de cuenta (Docentes):
-<img src="assets/images/capituloIV/WebAppWF12.png" alt="WebApp WF" style="width:100%;">
+**Configuración de cuenta (Usuario):**
+<img src="assets/capituloIV/WebAppWF12.png" alt="WebApp WF" style="width:100%;">
+
+**Configuración de cuenta (Tutor):**
+<img src="assets/capituloIV/WebAppWF13.png" alt="WebApp WF" style="width:100%;">
+
+**Tutorías:**
+<img src="assets/capituloIV/WebAppWF14.png" alt="WebApp WF" style="width:100%;">
+
+**Inscripción Tutores:**
+<img src="assets/capituloIV/WebAppWF15.png" alt="WebApp WF" style="width:100%;">
+
+**Inscripción Tutores Culminada:**
+<img src="assets/capituloIV/WebAppWF16.png" alt="WebApp WF" style="width:100%;">
+
 
 #### Mobile Wireframes: 
 
-<img src="assets/images/capituloIV/WebAppWFM1.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/WebAppWFMobile1.png" alt="WebApp WF" style="width:100%;">
 
-<img src="assets/images/capituloIV/WebAppWFM2.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/WebAppWFMobile2.png" alt="WebApp WF" style="width:100%;">
 
-<img src="assets/images/capituloIV/WebAppWFM3.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/WebAppWFMobile3.png" alt="WebApp WF" style="width:100%;">
 
-<img src="assets/images/capituloIV/WebAppWFM4.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/WebAppWFMobile4.png" alt="WebApp WF" style="width:100%;">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 **User Goal 1: Crear una cuenta**
-<img src="assets/images/capituloIV/UserGoal1.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/UserGoal1.png" alt="WebApp WF" style="width:100%;">
 
 **User Goal 2: Iniciar Sesión**
-<img src="assets/images/capituloIV/UserGoal2.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/UserGoal2.png" alt="WebApp WF" style="width:100%;">
 
 **User Goal 3: Navegar a la secciones de la plataforma**
-<img src="assets/images/capituloIV/UserGoal3.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/UserGoal3.png" alt="WebApp WF" style="width:100%;">
 
 **User Goal 4: Configurar la cuenta** 
-<img src="assets/images/capituloIV/UserGoal4.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/UserGoal4.png" alt="WebApp WF" style="width:100%;">
 
 **User Goal 5: Subir contenido (Docente)**
-<img src="assets/images/capituloIV/UserGoal5.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/UserGoal5.png" alt="WebApp WF" style="width:100%;">
 
 **User Goal 6: Crear un repositorio (Alumno)**
-<img src="assets/images/capituloIV/UserGoal6.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/UserGoal6.png" alt="WebApp WF" style="width:100%;">
 
 
 [URL del Lucid Chart](https://lucid.app/lucidchart/b1e318d4-eac0-4585-b525-7186b4613849/edit?viewport_loc=-9133%2C-2321%2C5759%2C1972%2C0_0&invitationId=inv_ec7ffff4-88dd-43ee-a6b4-9304ec2e9720)
