@@ -242,8 +242,10 @@ Ocupación: Desarrollador de Software en Python
 ### 2.2.3. Análisis de entrevistas.
 **Desarrollador Principiante:**
 En esta entrevista tuvimos la oportunidad de entrevistar a Andres, el es un desarrollador de software en JavaScript, en este momento esta haciendo sus practicas en una empresa de desarrollo, como el nos comenta es principiante en el desarrollo en JS. El nos comenta que es muy complicado encontrar alguna plataforma en la cual pueda encontrar documentos multimedia, con los cuales poder mejorar sus habilidades. Tambien nos dice que estaria interesado en poder encontrar algun foro en el cual se pueda hacer consultas a desarrolladores expertos, sobre sus problemas o dudas. 
+
 **Desarrollador Experto:**
 En esta ocasion tuvimos el placer de conversar con Rodrigo, el cuenta con mas de 8 años desarrollando software con el lenguaje C++, el nos comenta que en sus inicios le fue muy complicado encontrar donde aprender o mejorar sus habilidades y que le gusta la idea de contar con una plataforma en la cual pueda compartir los documentos que cree que le pueden subir a sus compañeros desarrolladores principiantes o menos experimentados y al mismo tiempo poder poder resolver sus consultas. 
+
 **Estudiante Junior:**
 En esta oportunidad, el estudiante de ciclos superriores destaca la importancia de herramientas interactivas y recursos multimedia para hacer el aprendizaje dinámico, además de un sistema de seguimiento del progreso y retroalimentación personalizada. En segundo plano, enfatiza  la flexibilidad en tiempo y espacio como ventajas puntuales en una plataforma en línea. Su enfoque en la enseñanza del lenguaje Python y las facilidades de este en comparaciòn de otros lenguajes, demuestra su interés en crear una experiencia educativa adaptada a las necesidades de estudiantes con menor nivel de conocimiento.
 
@@ -869,23 +871,24 @@ Un diagrama de base de datos es una herramienta visual que representa la estruct
    1. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git todo por medio de repositorios. Esto nos facilitará la colaboracion en tiempo real y la revision de    nuestros aportes al proyecto por parte de cada miembro del equipo. Ruta de referencia <https://github.com/>
 ### 5.1.2. Source Code Management.
 El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando GitHub como plataforma y sistema de control de versiones. Será compartido los URLs de nuestros repositorios en GitHub para nuestra Landing Page y seguirá siendo implementado en nuestros demás productos de nuesto proyecto.
+
 ### Repositorio de GitHub:
-URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesOpenSource-SW58> <br>
+URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesOpenSource-SW58> 
+
 URL para acceder a nuestra Landing Page <https://github.com/AplicacionesOpenSource-SW58/Landing-Page-FastLearners>
+
 ### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
 El Lenguaje de Marcado de Hipertexto (HTML) es fundamental para estructurar y presentar el contenido en páginas web. La convención comúnmente utilizada para la página principal de un sitio web es nombrarla index.html.
 Aquí están algunas convenciones clave para el uso de HTML:
 1.	Utilizar nombres de elementos en minúsculas para mantener la consistencia y la legibilidad del código.
 2.	Cerrar todos los elementos en HTML, es una buena práctica hacerlo para evitar problemas de compatibilidad y mejorar la claridad del código.
 3.	Escribir comentarios cortos en una sola línea para una mayor claridad y organización del código.
 4.	Evitar líneas de código excesivamente largas y agregar espacios en blanco solo cuando sea necesario para mejorar la organización del código.
-5.	Nunca omitir elementos importantes como <title>, <html>, <body>, y <head>, ya que desempeñan un papel crucial en la estructura y el contenido de la página.
-6.	Incluir el atributo lang dentro de la etiqueta <html> para especificar el idioma de la página.
+5.	Nunca omitir elementos importantes como ```<title>, <html>, <body>, y <head>```, ya que desempeñan un papel crucial en la estructura y el contenido de la página.
+6.	Incluir el atributo lang dentro de la etiqueta ```<html>``` para especificar el idioma de la página.
 7.	Es importante especificar atributos como alt, ancho y altura para las imágenes para mejorar la accesibilidad y reducir el parpadeo.
 8.	Evitar el uso de espacios alrededor de los signos en HTML para una mejor legibilidad.
-9.	Es importante agregar siempre el elemento <meta> en todas las páginas para configurar la ventana gráfica de manera óptima.
+9.	Es importante agregar siempre el elemento ```<meta>``` en todas las páginas para configurar la ventana gráfica de manera óptima.
 
 Cascading Style Sheets (CSS) es un lenguaje utilizado para dar estilo y diseñar páginas web. Se considera una buena práctica seguir ciertas convenciones al escribir CSS para garantizar un código limpio y mantenible.
 A continuación, se presentan algunas convenciones importantes para el uso de CSS:
