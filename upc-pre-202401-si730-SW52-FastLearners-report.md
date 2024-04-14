@@ -642,6 +642,10 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 <img src="assets/capituloIV/WebAppWFMobile4.png" alt="WebApp WF" style="width:100%;">
 
+<img src="assets/capituloIV/WebAppWFMobile5.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/capituloIV/WebAppWFMobile6.png" alt="WebApp WF" style="width:100%;">
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 **User Goal 1: Crear una cuenta**
@@ -715,15 +719,29 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 **Inscripción Tutores Culminada:**
 <img src="assets/capituloIV/WebAppMK16.png" alt="WebApp WF" style="width:100%;">
 
+#### Mobile Mockups: 
+
+<img src="assets/capituloIV/WebAppMKMobile1.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/capituloIV/WebAppMKMobile2.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/capituloIV/WebAppMKMobile3.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/capituloIV/WebAppMKMobile4.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/capituloIV/WebAppMKMobile5.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/capituloIV/WebAppMKMobile6.png" alt="WebApp WF" style="width:100%;">
+
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-<img src="assets/images/capituloIV/UserFlowDiagram.png" alt="User Flow Diagram" style="width:100%;"> 
+<img src="assets/capituloIV/UserFlowDiagram.png" alt="User Flow Diagram" style="width:100%;"> 
 
 ## 4.5. Web Applications Prototyping.
 
 Hemos desarrollado nuestro prototipo en la plataforma Figma: 
 
-<img src="assets/images/capituloIV/Prototipo.png" alt="Prototipo" style="width:100%;">
+<img src="assets/capituloIV/Prototipo.png" alt="Prototipo" style="width:100%;">
 
 [URL del Prototipo](https://www.figma.com/proto/FjmNDVBcJHJAcdpC2si6uA/FastLearners-Landing-Page?page-id=0%3A1&type=design&node-id=10-658&viewport=749%2C-998%2C0.12&t=6fT1ovWasdWZVJ37-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design)
 
