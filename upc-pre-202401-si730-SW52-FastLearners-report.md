@@ -644,7 +644,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 <img src="assets/capituloIV/WebAppWFMobile5.png" alt="WebApp WF" style="width:100%;">
 
-<img src="assets/capituloIV/WebAppWFMobile6.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/WebAppWFMobile6.png" alt="WebApp WF" style="width:30%;">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
@@ -731,7 +731,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 <img src="assets/capituloIV/WebAppMKMobile5.png" alt="WebApp WF" style="width:100%;">
 
-<img src="assets/capituloIV/WebAppMKMobile6.png" alt="WebApp WF" style="width:100%;">
+<img src="assets/capituloIV/WebAppMKMobile6.png" alt="WebApp WF" style="width:30%;">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
