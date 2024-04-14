@@ -236,7 +236,7 @@ Ocupación: Desarrollador de Software en C++
 Nombre: Angelo Arevalo
 Edad: 21 años 
 Ocupación: Desarrollador de Software en Python 
-<img src="assets/images/Entrevista_Santiago_Universitario.png" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/images/Entrevista3.png" alt="Mapa de impacto" style="width:100%;">
 
 
 ### 2.2.3. Análisis de entrevistas.
