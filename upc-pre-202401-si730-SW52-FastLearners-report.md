@@ -531,43 +531,45 @@ El sistema de navegación de nuestro sitio web consta de menús de navegación s
 Luego de haber iniciado sesión, el usuario accederá a un menú de carácter jerárquico en el cual se mostrarán las opciones principales de la aplicación (Foro estudiantil, Buscar repositorios y/o documentación, Videos educativos, Configuración de la cuenta). Cada una de estas opciones te llevará a su respectiva página, de la cual podrás regresar al menú anterior seleccionando una opción de regresar a la siguiente página. Cada menú del sitio cuenta con botones que pueden ser distinguidos con facilidad de otros objetos en la interfaz, lo cual ayudará de una manera significativa con la navegación. 
 
 ## 4.3. Landing Page UI Design.
+
+[Enlace para el diseño en Figma](https://www.figma.com/file/HsQCNin8NFygNbCSOwD3Sg/FastLearners-Apps-Web?type=design&node-id=0%3A1&mode=design&t=sKkgqgWjpviPyy3k-1)
+
 ### 4.3.1. Landing Page Wireframe.
 
 #### Desktop Wireframe: 
 
-Página principal:
-<img src="assets/images/capituloIV/LandingPageWF1.png" alt="Landing Page WF" style="width:100%;">
+**Página principal:**
+<img src="assets/capituloIV/LandingPageWF1.png" alt="Landing Page WF" style="width:100%;">
 
-Acerca de nosotros: 
-<img src="assets/images/capituloIV/LandingPageWF2.png" alt="Landing Page WF" style="width:100%;">
+**Acerca de nosotros:** 
+<img src="assets/capituloIV/LandingPageWF2.png" alt="Landing Page WF" style="width:100%;">
 
-Planes de suscripción:
-<img src="assets/images/capituloIV/LandingPageWF3.png" alt="Landing Page WF" style="width:100%;">
+**Planes de suscripción:**
+<img src="assets/capituloIV/LandingPageWF3.png" alt="Landing Page WF" style="width:100%;">
 
-Conoce más:
-<img src="assets/images/capituloIV/LandingPageWF4.png" alt="Landing Page WF" style="width:100%;">
+**Conoce más:**
+<img src="assets/capituloIV/LandingPageWF4.png" alt="Landing Page WF" style="width:100%;">
 
 #### Mobile Wireframe: 
 
-<img src="assets/images/capituloIV/LandingPageWFM1.png" alt="Landing Page WF" style="width:80%;">
+<img src="assets/capituloIV/LandingPageWFMobile1.png" alt="Landing Page WF" style="width:80%;">
 
-<img src="assets/images/capituloIV/LandingPageWFM2.png" alt="Landing Page WF" style="width:80%;">
-
+<img src="assets/capituloIV/LandingPageWFMobile2.png" alt="Landing Page WF" style="width:80%;">
 
 ### 4.3.2. Landing Page Mock-up.
 
 #### Desktop Mockup:
 
-Página principal:
+**Página principal:**
 <img src="assets/capituloIV/LandingPageMK1.png" alt="Landing Page MK" style="width:100%;">
 
-Acerca de nosotros: 
+**Acerca de nosotros:** 
 <img src="assets/capituloIV/LandingPageMK2.png" alt="Landing Page MK" style="width:100%;">
 
-Planes de suscripción: 
+**Planes de suscripción:** 
 <img src="assets/capituloIV/LandingPageMK3.png" alt="Landing Page MK" style="width:100%;">
 
-Conoce más:
+**Conoce más:**
 <img src="assets/capituloIV/LandingPageMK4.png" alt="Landing Page MK" style="width:100%;">
 
 #### Mobile Mockup: 
@@ -665,41 +667,53 @@ Conoce más:
 
 ### 4.4.3. Web Applications Mock-ups.
 
-Inicio de sesión:
-<img src="assets/images/capituloIV/WebAppMK1.png" alt="WebApp MK" style="width:100%;">
+**Inicio de sesión:**
+<img src="assets/capituloIV/WebAppMK1.png" alt="WebApp MK" style="width:100%;">
 
-Registro de usuario:
-<img src="assets/images/capituloIV/WebAppMK2.png" alt="WebApp MK" style="width:100%;">
+**Registro de usuario:**
+<img src="assets/capituloIV/WebAppMK2.png" alt="WebApp MK" style="width:100%;">
 
-Planes de suscripción: 
-<img src="assets/images/capituloIV/WebAppMK3.png" alt="WebApp MK" style="width:100%;">
+**Planes de suscripción: **
+<img src="assets/capituloIV/WebAppMK3.png" alt="WebApp MK" style="width:100%;">
 
-Añadir pago por tarjeta:
-<img src="assets/images/capituloIV/WebAppMK4.png" alt="WebApp MK" style="width:100%;">
+**Añadir pago por tarjeta:**
+<img src="assets/capituloIV/WebAppMK4.png" alt="WebApp MK" style="width:100%;">
 
-Menu Principal:
-<img src="assets/images/capituloIV/WebAppMK5.png" alt="WebApp MK" style="width:100%;">
+**Menu Principal:**
+<img src="assets/capituloIV/WebAppMK5.png" alt="WebApp MK" style="width:100%;">
 
-Foro de la comunidad:
-<img src="assets/images/capituloIV/WebAppMK6.png" alt="WebApp MK" style="width:100%;">
+**Foro de la comunidad:**
+<img src="assets/capituloIV/WebAppMK6.png" alt="WebApp MK" style="width:100%;">
 
-Buscador de repositorios y documentos: 
-<img src="assets/images/capituloIV/WebAppMK7.png" alt="WebApp MK" style="width:100%;">
+**Buscador de repositorios y documentos:** 
+<img src="assets/capituloIV/WebAppMK7.png" alt="WebApp MK" style="width:100%;">
 
-Portal de material multimedia:
-<img src="assets/images/capituloIV/WebAppMK8.png" alt="WebApp MK" style="width:100%;">
+**Portal de material multimedia:**
+<img src="assets/capituloIV/WebAppMK8.png" alt="WebApp MK" style="width:100%;">
 
-Configuración de cuenta (Usuario):
+**Crear repositorio:**
 <img src="assets/images/capituloIV/WebAppMK9.png" alt="WebApp MK" style="width:100%;">
 
-Crear repositorio: 
-<img src="assets/images/capituloIV/WebAppMK10.png" alt="WebApp MK" style="width:100%;">
+**Subir contenido (Docentes):**
+<img src="assets/capituloIV/WebAppMK10.png" alt="WebApp MK" style="width:100%;">
 
-Subir contenido (Docentes):
-<img src="assets/images/capituloIV/WebAppMK11.png" alt="WebApp MK" style="width:100%;">
+**Configuración de cuenta (Docentes):**
+<img src="assets/capituloIV/WebAppMK11.png" alt="WebApp MK" style="width:100%;">
 
-Configuración de cuenta (Docentes):
-<img src="assets/images/capituloIV/WebAppMK12.png" alt="WebApp MK" style="width:100%;">
+**Configuración de cuenta (Usuario):**
+<img src="assets/capituloIV/WebAppMK12.png" alt="WebApp MK" style="width:100%;">
+
+**Configuración de cuenta (Tutor):**
+<img src="assets/capituloIV/WebAppMK13.png" alt="WebApp WF" style="width:100%;">
+
+**Tutorías:**
+<img src="assets/capituloIV/WebAppMK14.png" alt="WebApp WF" style="width:100%;">
+
+**Inscripción Tutores:**
+<img src="assets/capituloIV/WebAppMK15.png" alt="WebApp WF" style="width:100%;">
+
+**Inscripción Tutores Culminada:**
+<img src="assets/capituloIV/WebAppMK16.png" alt="WebApp WF" style="width:100%;">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
