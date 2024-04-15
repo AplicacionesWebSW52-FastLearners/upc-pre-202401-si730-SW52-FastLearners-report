@@ -657,17 +657,19 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 **User Goal 3: Navegar a la secciones de la plataforma**
 <img src="assets/capituloIV/UserGoal3.png" alt="WebApp WF" style="width:100%;">
 
-**User Goal 4: Configurar la cuenta** 
+**User Goal 4: Crear un repositorio (Alumno)**
 <img src="assets/capituloIV/UserGoal4.png" alt="WebApp WF" style="width:100%;">
 
-**User Goal 5: Subir contenido (Docente)**
+**User Goal 5: Configurar la cuenta** 
 <img src="assets/capituloIV/UserGoal5.png" alt="WebApp WF" style="width:100%;">
 
-**User Goal 6: Crear un repositorio (Alumno)**
+**User Goal 6: Subir contenido (Docente)**
 <img src="assets/capituloIV/UserGoal6.png" alt="WebApp WF" style="width:100%;">
 
+**User Goal 7: Inscribirse como Tutor (Alumno)**
+<img src="assets/capituloIV/UserGoal7.png" alt="WebApp WF" style="width:100%;">
 
-[URL del Lucid Chart](https://lucid.app/lucidchart/b1e318d4-eac0-4585-b525-7186b4613849/edit?viewport_loc=-9133%2C-2321%2C5759%2C1972%2C0_0&invitationId=inv_ec7ffff4-88dd-43ee-a6b4-9304ec2e9720)
+[URL del Lucid Chart](https://lucid.app/lucidchart/92b69941-7705-4dec-9366-547a7e087cc2/edit?viewport_loc=-8135%2C-1682%2C5760%2C1973%2C0_0&invitationId=inv_2bcea016-61dc-4109-809c-fd32c5d9ef23)
 
 ### 4.4.3. Web Applications Mock-ups.
 
