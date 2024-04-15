@@ -745,7 +745,7 @@ Hemos desarrollado nuestro prototipo en la plataforma Figma:
 
 <img src="assets/capituloIV/Prototipo.png" alt="Prototipo" style="width:100%;">
 
-[URL del Prototipo](https://www.figma.com/proto/FjmNDVBcJHJAcdpC2si6uA/FastLearners-Landing-Page?page-id=0%3A1&type=design&node-id=10-658&viewport=749%2C-998%2C0.12&t=6fT1ovWasdWZVJ37-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design)
+[URL del Prototipo](https://www.figma.com/proto/HsQCNin8NFygNbCSOwD3Sg/FastLearners-Apps-Web?page-id=0%3A1&type=design&node-id=10-658&viewport=935%2C-380%2C0.07&t=n5T9d6Gv9XZRvmOa-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design)
 
 ## 4.6. Domain-Driven Software Architecture.
 El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua del ámbito del problema, fomentando una visión compartida del dominio en cuestión. Al adoptar un enfoque diferente, DDD facilita una colaboración más efectiva entre los desarrolladores y los expertos en el dominio, al tiempo que promueve el uso de un lenguaje común. Además de esto, DDD implica la aplicación de una serie de procedimientos, patrones y diagramas de arquitectura para alinear el software con el dominio y fortalecer su enfoque.
