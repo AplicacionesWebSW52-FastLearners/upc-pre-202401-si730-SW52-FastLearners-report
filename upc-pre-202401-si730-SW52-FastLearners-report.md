@@ -989,7 +989,7 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 | Time | 08:38 PM |
 | Location | Reunión Virtual por Discord |
 | Prepared By | Ochoa Colonio, Carlos Alberto |
-| Attendees (to planning meeting) | Javier Murillo, Mathias / Orrego Noriega, Jorge David / Pachas Chavez, Alejandro Alberto / Mendez Rosales, Marco Aurelio |
+| Attendees (to planning meeting) | Olivera Guerra, Santiago Mickelle / Orrego Noriega, Jorge David / Pachas Chavez, Alejandro Alberto / Mendez Rosales, Marco Aurelio |
 | Sprint Goal & User Stories |
 | Sprint 1 Goal | Planificar, diseñar e implementar una landing page de FastLearners llamativa para el usuario |
 | Sprint 1 Velociy | 8 |
@@ -1008,12 +1008,12 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 | HU01 | Ver página de inicio atractiva | T01 | Diseño UI/UX de la página de inicio | Se realiza el diseño de interfaz de usuario para la pagina de inicio | 2 | Orrego Noriega, Jorge David | Done |
 | HU01 | Ver página de inicio atractiva | T02 | Implementación Front-end | Se implementa el Front-end con el uso de HTML5, CSS y JavaScript | 2 | Ochoa Colonio, Carlos Alberto | Done |
 | HU01 | Ver página de inicio atractiva | T03 | Optimización SEO | Se realiza una optimización en el codigo para que alcanze un mayor SEO | 3 | Mendez Rosales, Marco Aurelio | Done |
-| HU01 | Ver página de inicio atractiva | T04 | Pruebas de Usabilidad | Se realizan testing para probar que la página funcione correctamente | 1 | Javier Murillo, Mathias | Done |
+| HU01 | Ver página de inicio atractiva | T04 | Pruebas de Usabilidad | Se realizan testing para probar que la página funcione correctamente | 1 | Olivera Guerra, Santiago Mickelle | Done |
 | HU02 | Registrarme rápidamente | T05 | Desarrollo de Sistema de Registro | Se desarrolla un sistema login | 4 | Pachas Chavez, Alejandro Alberto | To-do |
 | HU02 | Registrarme rápidamente | T06 | Integración Backend Registro | Se realiza el Back-end | 6 | Mendez Rosales, Marco Aurelio | To-do |
-| HU03 | Recibir correo de bienvenida | T07 | Envío Automático de Correo de Bienvenida | Se le envia un correo automatico al usuario nuevo que se ha registrado | 3 | Javier Murillo, Mathias | To-do |
+| HU03 | Recibir correo de bienvenida | T07 | Envío Automático de Correo de Bienvenida | Se le envia un correo automatico al usuario nuevo que se ha registrado | 3 | Olivera Guerra, Santiago Mickelle | To-do |
 | HU03 | Recibir correo de bienvenida | T08 | Plantilla de Correo de Bienvenida | Se realiza el diseño mejorado del correo de bienvenida | 3 | Ochoa Colonio, Carlos Alberto | To-do |
-| HU04 | Buscar cursos y recursos | T09 | Funcionalidad de Búsqueda de Cursos | Se implementa el sistema para buscar cursos | 8 | Javier Murillo, Mathias | To-do |
+| HU04 | Buscar cursos y recursos | T09 | Funcionalidad de Búsqueda de Cursos | Se implementa el sistema para buscar cursos | 8 | Olivera Guerra, Santiago Mickelle | To-do |
 | HU04 | Buscar cursos y recursos | T10 | Diseño de Interfaz de Búsqueda | Se realiza el diseño para el sistema de búsqueda | 6 | Ochoa Colonio, Carlos Alberto | To-do |
 | HU10 | Acceder a ejemplos de código y proyectos | T11 | Creación de Ejemplos de Código | Se crean ejemplos de código para llenar los repositorios | 5 | Mendez Rosales, Marco Aurelio | To-do |
 | HU10 | Acceder a ejemplos de código y proyectos | T12 | Documentación de Ejemplos de Código | Se crea el readme para entender como funciona cada código | 6 | Pachas Chavez, Alejandro Alberto | To-do |
@@ -1023,13 +1023,13 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |------------|--------|-----------|----------------|---------------------|------------------|
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 4b9a2f | Added Header | Added Header | 01/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | d1ed71 | Added Section "Conoce Más" | Added Section "Conoce Más" | 02/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 5461b1 | Added Section "¡Suscríbete Ya!" | Added Section "¡Suscríbete Ya!" | 02/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 95e488 | Added Images | Added Images | 03/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 1951d4 | Added Section "Acerca de Nosotros" | Added Section "Acerca de Nosotros" | 04/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 059532 | Added Section "Planes de suscripción" | Added Section "Planes de suscripción" | 05/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 9e9d96 | Added Footer | Added Footer | 06/04/2024 |
+| [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage | 4b9a2f | Added Header | Added Header | 01/04/2024 |
+| [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage | d1ed71 | Added Section "Conoce Más" | Added Section "Conoce Más" | 02/04/2024 |
+| [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage | 5461b1 | Added Section "¡Suscríbete Ya!" | Added Section "¡Suscríbete Ya!" | 02/04/2024 |
+| [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage | 95e488 | Added Images | Added Images | 03/04/2024 |
+| [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage | 1951d4 | Added Section "Acerca de Nosotros" | Added Section "Acerca de Nosotros" | 04/04/2024 |
+| [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage | 059532 | Added Section "Planes de suscripción" | Added Section "Planes de suscripción" | 05/04/2024 |
+| [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage | 9e9d96 | Added Footer | Added Footer | 06/04/2024 |
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
