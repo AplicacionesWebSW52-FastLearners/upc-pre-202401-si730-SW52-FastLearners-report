@@ -24,6 +24,23 @@
 
 # Project Report Collaboration Insights
 
+**Commits del repositorio actual (informe):** 
+
+<img src="assets/images/CommitsWeb.png" alt="Imagen del compañero" style="width:100%">
+
+**Commits del repositorio de Open Source (informe):**
+
+<img src="assets/images/Commits TB1v2.png" alt="Imagen del compañero" style="width:100%">
+
+Como se trabajó el mismo proyecto que en el curso de Open Source, los commits del repositorio anterior también ayudaron al desarrollo de este informe.
+
+**Cuentas de los desarrolladores:**
+* Forasterro - Olivera Guerra, Santiago Mickelle
+* Farioraro - Ochoa Colonio, Carlos Alberto
+* Cuak123 - Mendez Rosales, Marco Aurelio
+* JorgeOrrego1201 - Orrego Noriega, Jorge David
+* alejandropch - Pachas Chavez, Alejandro Alberto
+
 
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
