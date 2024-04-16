@@ -920,9 +920,9 @@ Un diagrama de base de datos es una herramienta visual que representa la estruct
 El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando GitHub como plataforma y sistema de control de versiones. Será compartido los URLs de nuestros repositorios en GitHub para nuestra Landing Page y seguirá siendo implementado en nuestros demás productos de nuesto proyecto.
 
 ### Repositorio de GitHub:
-URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesOpenSource-SW58> 
+URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesWebSW52-FastLearners> 
 
-URL para acceder a nuestra Landing Page <https://github.com/AplicacionesOpenSource-SW58/Landing-Page-FastLearners>
+URL para acceder a nuestra Landing Page <https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage>
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 El Lenguaje de Marcado de Hipertexto (HTML) es fundamental para estructurar y presentar el contenido en páginas web. La convención comúnmente utilizada para la página principal de un sitio web es nombrarla index.html.
@@ -1062,11 +1062,13 @@ Para la realización de este Sprint no se ha considerado la evidencia de la docu
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente, de manera parcial ya que no se logró implementar todo lo planeado.
+
 <img src="assets/images/PaginaPrincipal.png" alt="PaginaPrincipal" style="width:100%;">
 <img src="assets/images/SeccionSobreNosotros_001.png" alt="SobreNosotros" style="width:100%;">
 <img src="assets/images/SeccionConoceMas_001.png" alt="ConoceMas" style="width:100%;">
 <img src="assets/images/SeccionPlanesYSuscripciones_001.png" alt="PlanesYSuscripciones" style="width:100%;">
-Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/>
+
+Enlace para visualizar la landing page: <https://aplicacioneswebsw52-fastlearners.github.io/FastLearnersLandingPage/> 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -1076,9 +1078,11 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 | Ochoa Colonio, Carlos Alberto | Desarrollo del Capítulo I y elaboración de la Landing Page |
 | Pachas Chavez, Alejandro Alberto | Desarrollo del Capítulo III y V|
 | Mendez Rosales, Marco Aurelio | Desarrollo del Capítulo IV (Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design)|
+| Olivera Guerra, Santiago Mickele | Desarrollo del Capítulo II y V|
 
+![Ver todos los commits en GitHub (informe)](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report)
 
-![Ver todos los commits en GitHub]()
+![Ver todos los commits en GitHub (Landing Page)](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage)
 
 # Conclusiones y recomendaciones.
 
@@ -1102,5 +1106,3 @@ McKinsey & Company. (s.f.). New global data reveal education technology's impact
 McKinsey & Company. (s.f.). Demand for online education is growing: Are providers ready? Recuperado de https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
 
 The Brookings Institution. (s.f.). Realizing the promise: How can education technology improve learning for all? Recuperado de https://www.brookings.edu/articles/realizing-the-promise-how-can-education-technology-improve-learning-for-all/
-
-# Anexos
