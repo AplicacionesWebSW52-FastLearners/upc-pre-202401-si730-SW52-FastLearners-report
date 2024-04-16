@@ -1095,6 +1095,7 @@ Enlace para visualizar la landing page: <https://aplicacioneswebsw52-fastlearner
 * Logramos validar de manera eficaz la necesidad de nuestros usuarios con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
 * Hubo cierta dificultad para desarrollar el plan de negocios que pueda ser estable, dado que primero tenemos que asegurar el bienestar económico de la startup. &nbsp;
 * Creado un equipo de desarrollo con las habilidades y experiencia necesarias para llevar a cabo el proyecto. &nbsp;
+* El proyecto FastLearners, con su prototipo que ya atrae a programadores e ingenieros, está bien encaminado. A pesar de los retos financieros iniciales, tenemos un equipo capaz que nos posiciona para convertirnos en un referente en aprendizaje tecnológico colaborativo. &nbsp;
 
 **Próximos pasos**
 
