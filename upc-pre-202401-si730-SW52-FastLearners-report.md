@@ -20,7 +20,7 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | xx/xx/2024 |Grupo 4 |Se crea el documento |
+| 0.0 | 10/04/2024 | FastLearners |Se crea el documento |
 
 # Project Report Collaboration Insights
 
@@ -321,6 +321,7 @@ As Is:
 | Feeling  | Comprometido con el exito del proyecto | Concentrado en encontrar soluciones rapidas | Confianza en el equipo para cumplir con los plazos | Determinado a superar cualquier problema |
 
 ## 2.4. Ubiquitous Language.
+
 ```
 Desarrollador principiante:
 
@@ -1036,7 +1037,7 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners/Features | 21482d5 | Added Aceptance Test | Added Aceptance Test | 08/04/2024 |
+| [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage/Features | 21482d5 | Added Aceptance Test | Added Aceptance Test | 08/04/2024 |
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
