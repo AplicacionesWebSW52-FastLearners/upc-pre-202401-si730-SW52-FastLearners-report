@@ -1104,9 +1104,118 @@ Enlace para visualizar la landing page: <https://aplicacioneswebsw52-fastlearner
 
 ![Ver todos los commits en GitHub (Landing Page)](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage)
 
+### 5.2.2 Sprint 2
+#### 5.2.2.1 Sprint Planning 2
+Nuestro Segundo Sprint #2 comienza el 15/04/2024 y tiene como finalidad resolver los comentarios recibidos del Sprint 1, realizar el FrontEnd.
+
+| Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
+|--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
+| 2      | 15/04/2024 | 20:00 | Reunión Virtual mediante Discord | Marco Mendez| - Carlos Ochoa, Jorge Orrego, Santiago Olivera, Marco Mendez, Alejandro  Pachas                          
+
+| Sprint 2 Goal                                        | Velocity | Sum of Story Points |
+|------------------------------------------------------|----------|---------------------|
+| Resolución de comentarios recibidos en el Sprint 1  | 31       | 31                   |
+| Realizar el Front End de la web application utilizando Vue | 49 | 49              |
+| Creación de Servicios Base                                                            |                     
+
+
+#### 5.2.2.2 Sprint Backlog
+En nuestro segundo Sprint Backlog, logramos completar la landing page, el producto base del front end de la web application. Además de crear segmentos base.
+
+| Id   | Title                                               | Id   | Title                                              | Description                                                                      | Estimation (Hours) | Assigned To        | Status (ToDo/In Process/ToReview/Done) |
+|------|-----------------------------------------------------|------|----------------------------------------------------|----------------------------------------------------------------------------------|--------------------|--------------------|----------------------------------------|
+| HU11 | Acceder a ejemplos de código y proyectos           | TK11 | Segmento de ejemplos                              | Crear segmento para que el usuario pueda acceder a ejemplos de código y proyectos | 3                  | Marco Mendez       | To Do                                  |
+| HU12 | Recibir retroalimentación sobre mi código           | TK12 | Segmento de retroalimentación sobre el código     | Crear segmento en el que el usuario pueda recibir retroalimentación sobre su código | 4                  | Carlos Ochoa       | To Do                                  |
+| HU13 | Acceder a comunidad en línea                       | TK13 | Segmento de comunidad                             | Crear segmento en el que el usuario pueda compartir con su comunidad             | 5                  | Santiago            | To Do                                  |
+| HU14 | Acceder a recursos avanzados de desarrollo móvil   | TK14 | Segmento de cursos avanzados                      | Crear segmento para que el usuario pueda acceder a recursos avanzados.           | 6                  | Alejandro Pachas          | To Do                                  |
+| HU15 | Colaborar en proyectos de código abierto           | TK15 | Segmento de colaboración en línea                 | Crear segmento para que el usuario pueda colaborar en proyectos de código abierto | 5                  | Jorge Orrego       | To Do                                  |
+| HU16 | Mantenerme actualizado sobre nuevas tecnologías    | TK16 | Segmento de noticias                              | Crear segmento para que el usuario pueda acceder a noticias sobre nuevas tecnologías | 5                  | Marco Mendez       | To Do                                  |
+| HU17 | Recibir retroalimentación sobre mi arquitectura... | TK17 | Segmento de retroalimentación                     | Crear segmento para que el usuario pueda recibir y observar retroalimentación sobre su arquitectura de diseño | 5                  | Marco Mendez       | To Do                                  |
+| HU18 | Acceder a herramientas de análisis de rendimie... | TK18 | Segmento de acceso a herramientas de análisis     | Crear segmento para que el usuario pueda acceder a una herramienta de análisis de rendimiento y calidad de código | 5                  | Jorge Orrego       | To Do                                  |
+| HU19 | Realizar proyectos prácticos                      | TK19 | Segmento de creación de proyectos prácticos      | Crear segmento para que el usuario pueda practicar creando proyectos prácticos   | 5                  | Alejandro Pachas         | To Do                                  |
+| HU20 | Acceder a recursos de referencia                  | TK20 | Segmento de recursos de referencia                | Crear segmento para que el usuario pueda acceder a recursos de referencia        | 5                  | Santiago Olvera, Carlos Ochoa | To Do          |
+
+#### 5.2.2.3 Development Evidence for Sprint Review
+
+En esta parte se muestran los commits realizados durante el segundo sprint.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|------------|--------|-----------|----------------|---------------------|------------------|
+|  |  |  |  |  |  |
+
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+Incluimos el código de los .feature en formato Gherkin en el directorio features/, cada Feature se relaciona a un User Story de nuestro Sprint 1.
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+|  |                   |  | 
+
+
+#### 5.2.2.5.Execution Evidence for Sprint Review
+
+En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up, por otro lado se realizo un desarrollo parcial de la aplicacion web, la cual permite que el usuario navegue por ciertas opciones que ofrecemos. A continuacion algunas evidencias:
+
+US01:
+
+
+US02:
+
+
+US03:
+
+
+US04:
+
+
+#### 5.2.2.6.Execution Evidence for Sprint Review:
+
+Durante el sprint 2 unicamente se planifico que el sprint conformaria el desarrollo de la landing page y el front-end, por ello no llevamos a cabo algun desarrollo de una API, pero que mas adelante si se llevará a cabo para que nuestros usuarios tengan acceso al contenido completo de nuestro producto.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review:
+
+En este sprint hemos desplegado la landing page actualizada de nuestra aplicación web junto al frontend por distintas plataformas. 
+
+
+Landing Page:
+
+El despliegue de la landing page se hizo por medio de una herramienta propia de GitHub. 
+
+
+Capturas de la Landing Page: 
+
+
+
+
+Web Application (Frontend):
+
+Desplegamos el frontend por medio de Firebase: 
+
+
+
+Link de la aplicación web desplegada: 
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+| Alumno | Actividad |
+|--------|-----------|
+| Olivera Guerra, Santiago Mickelle | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.5 y 5.2.2.6) |
+| Orrego Noriega, Jorge David | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.7 y 5.2.2.8) |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.1 al 5.2.2.4) |
+| Pachas Chavez, Alejandro Alberto |Desarrollo del Frontend, Reporte (5.2.2.1 al 5.2.2.4) |
+| Mendez Rosales, Marco Aurelio | Desarrollo del Frontend, Reporte (5.2.2.1 al 5.2.2.4) |
+
+
+Repositorio Landing Page
+
+
+Repositorio Frontend
+
+
 # Conclusiones y recomendaciones.
 
-## Conclusiones (TB1)
+## Conclusiones
 
 **Conclusiones específicas**
 
@@ -1114,7 +1223,6 @@ Enlace para visualizar la landing page: <https://aplicacioneswebsw52-fastlearner
 * Logramos validar de manera eficaz la necesidad de nuestros usuarios con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
 * Hubo cierta dificultad para desarrollar el plan de negocios que pueda ser estable, dado que primero tenemos que asegurar el bienestar económico de la startup. &nbsp;
 * Creado un equipo de desarrollo con las habilidades y experiencia necesarias para llevar a cabo el proyecto. &nbsp;
-* El proyecto FastLearners, con su prototipo que ya atrae a programadores e ingenieros, está bien encaminado. A pesar de los retos financieros iniciales, tenemos un equipo capaz que nos posiciona para convertirnos en un referente en aprendizaje tecnológico colaborativo. &nbsp;
 
 **Próximos pasos**
 
