@@ -1267,10 +1267,14 @@ Link de la aplicación web desplegada: https://fastlearners-appsweb.web.app/
 | Mendez Rosales, Marco Aurelio | Desarrollo del Frontend, Reporte (5.2.2.1 al 5.2.2.4) |
 
 
-Repositorio Landing Page
+**Repositorio Landing Page:**
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/c2ef5784-a95c-4e5f-9684-d4d12ee22372)
 
 
-Repositorio Frontend
+**Repositorio Frontend:**
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/3c5d13e3-1f74-4207-b388-fa978402a910)
 
 
 # Conclusiones y recomendaciones.
