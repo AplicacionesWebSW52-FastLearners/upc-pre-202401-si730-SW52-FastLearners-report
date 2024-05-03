@@ -1216,7 +1216,8 @@ Durante el sprint 2 unicamente se planifico que el sprint conformaria el desarro
 En este sprint hemos desplegado la landing page actualizada de nuestra aplicación web junto al frontend por distintas plataformas. 
 
 
-Landing Page:
+**Landing Page:**
+
 
 El despliegue de la landing page se hizo por medio de una herramienta propia de GitHub. 
 
@@ -1236,7 +1237,10 @@ Capturas de la Landing Page:
 ![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/4f8b2da6-e095-4da5-a7f6-f26f57505487)
 
 
-Web Application (Frontend):
+Link de la landing page: https://aplicacioneswebsw52-fastlearners.github.io/FastLearnersLandingPage/ 
+
+**Web Application (Frontend):**
+
 
 Desplegamos el frontend por medio de Firebase: 
 
