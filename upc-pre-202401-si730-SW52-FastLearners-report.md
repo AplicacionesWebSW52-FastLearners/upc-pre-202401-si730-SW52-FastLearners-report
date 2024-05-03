@@ -308,12 +308,18 @@ Why would they invite others?
 - Encuentran valor sobre el contenido de la plataforma
 - Reciben incentivos o recompensas por invitar a otros
 
-### 2.3.4. Empathy Mapping.
 **Desarrollador Principiante:**
-<img src="assets/images/Empathy Map Desarrollador Principiante.png" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/images/Entrevista2.png" alt="Mapa de impacto" style="width:100%;">
 
 **Desarrollador Experto:**
-<img src="assets/images/Empathy Map Desarrollador Experto.png" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/images/Entrevista2.png" alt="Mapa de impacto" style="width:100%;">
+
+### 2.3.4. Empathy Mapping.
+**Desarrollador Principiante:**
+<img src="assets/images/JourneyMapPrincipiante.png" alt="Mapa de viaje" style="width:100%;">
+
+**Desarrollador Experto:**
+<img src="assets/images/JourneyMapExperto.png" alt="Mapa de viaje" style="width:100%;">
 ### 2.3.5. As-is Scenario Mapping.
 
 **Desarrollador Principiante**  
