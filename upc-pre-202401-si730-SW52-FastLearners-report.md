@@ -1220,19 +1220,37 @@ Landing Page:
 
 El despliegue de la landing page se hizo por medio de una herramienta propia de GitHub. 
 
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/d717f703-f641-4c25-8bc3-0f580c836b78)
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/3d11c03f-9c8f-4286-ba8e-f9990fa60793)
+
 
 Capturas de la Landing Page: 
 
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/009d1911-34d8-4c9f-a53f-80dd4d9b41d7)
 
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/954548a1-b4e4-4005-bb8e-f24a362e5bbc)
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/a085f344-7ca5-4e62-aead-64eb7c60eaa7)
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/4f8b2da6-e095-4da5-a7f6-f26f57505487)
 
 
 Web Application (Frontend):
 
 Desplegamos el frontend por medio de Firebase: 
 
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/c42a7a90-8086-4134-8e6a-9b82d2a63f00)
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/aa6e2da3-7e83-440f-baa0-98ce013903e5)
 
 
-Link de la aplicación web desplegada: 
+También utilizamos My JSON Server para simular la funcionalidad del backend:
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/0c57830c-b6be-425d-a052-b365e9789e03)
+
+
+Link de la aplicación web desplegada: https://fastlearners-appsweb.web.app/
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
