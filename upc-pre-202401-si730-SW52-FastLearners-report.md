@@ -235,29 +235,45 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 
 ### 2.2.2. Registro de entrevistas.
 **Desarrollador Principiante**  
+
 Nombre: Pablo Cieza de Leon
-Edad: 23 años 
+
+Edad: 23 años
+
 Ocupación: Desarrollador de Software en JavaScript
+
 <img src="assets/images/Entrevista1.png" alt="Mapa de impacto" style="width:100%;">
 
 
 Nombre: Gabriela Avril Zavala Perez
+
 Edad: 21 años 
+
 Ocupación: Desarrollador de Software en Python
+
 <img src="assets/images/Entrevista Gabriela.png" alt="Mapa de impacto" style="width:100%;">
+
 https://drive.google.com/file/d/18zDQtl7S6TIrX6-h7YzDgMT2-oHyMJuM/view?usp=sharing
 
 **Desarrollador Experto**  
+
 Nombre: Rodrigo Castillo
+
 Edad: 30 años 
+
 Ocupación: Desarrollador de Software en C++ 
+
 <img src="assets/images/Entrevista2.png" alt="Mapa de impacto" style="width:100%;">
 
 
 **Estudiante/Junior**  
+
 Nombre: Angelo Arevalo
+
 Edad: 21 años 
+
 Ocupación: Desarrollador de Software en Python 
+
 <img src="assets/images/Entrevista3.png" alt="Mapa de impacto" style="width:100%;">
 
 
