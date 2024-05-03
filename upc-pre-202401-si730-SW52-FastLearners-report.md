@@ -289,6 +289,7 @@ En esta oportunidad, el estudiante de ciclos superriores destaca la importancia 
 | Tiene mas de 10 años de experiencia con un lenguaje de programacion | <span style="color:#E72929; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
 | Le gusta compartir sus experiencias y conocimientos con los demas | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
 | Sabe donde compartir sus conocimientos | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
+
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
@@ -309,17 +310,18 @@ Why would they invite others?
 - Reciben incentivos o recompensas por invitar a otros
 
 **Desarrollador Principiante:**
-<img src="assets/images/Entrevista2.png" alt="Mapa de impacto" style="width:100%;">
-
-**Desarrollador Experto:**
-<img src="assets/images/Entrevista2.png" alt="Mapa de impacto" style="width:100%;">
-
-### 2.3.4. Empathy Mapping.
 **Desarrollador Principiante:**
 <img src="assets/images/JourneyMapPrincipiante.png" alt="Mapa de viaje" style="width:100%;">
 
 **Desarrollador Experto:**
 <img src="assets/images/JourneyMapExperto.png" alt="Mapa de viaje" style="width:100%;">
+
+### 2.3.4. Empathy Mapping.
+**Desarrollador Principiante:**
+<img src="assets/images/Empathy Map Desarrollador Principiante.png" alt="Mapa de impacto" style="width:100%;">
+
+**Desarrollador Experto:**
+<img src="assets/images/Empathy Map Desarrollador Experto.png" alt="Mapa de impacto" style="width:100%;">
 ### 2.3.5. As-is Scenario Mapping.
 
 **Desarrollador Principiante**  
