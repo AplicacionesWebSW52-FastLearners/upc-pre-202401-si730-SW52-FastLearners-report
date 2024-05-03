@@ -1193,7 +1193,7 @@ Incluimos el código de los .feature en formato Gherkin en el directorio feature
 
 #### 5.2.2.5.Execution Evidence for Sprint Review
 
-En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up, por otro lado se realizo un desarrollo parcial de la aplicacion web, la cual permite que el usuario navegue por ciertas opciones que ofrecemos. A continuacion algunas evidencias:
+En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up, por otro lado se realizo un desarrollo parcial de la aplicacion web, la cual permite que el usuario navegue por ciertas opciones que ofrecemos. A continuacion algunas evidencias de la aplicación web desplegada:
 
 US01:
 ![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/blob/main/assets/images/PaginaPrincipal.png)
