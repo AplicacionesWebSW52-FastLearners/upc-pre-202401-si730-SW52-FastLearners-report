@@ -1149,7 +1149,15 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |------------|--------|-----------|----------------|---------------------|------------------|
-|  |  |  |  |  |  |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | 0eed9bc | chore: initial commit, created base project. | chore: initial commit, created base project. | 30/04/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | eea15a5 | Se limpio el proyecto | Se limpio el proyecto | 02/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | 5aaab05 | Vistas agregadas | Vistas agregadas | 02/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | 445ac9e | Json Server levantado | Json Server levantado | 02/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | f8a23b9 | Se agrega el login | Se agrega el login | 02/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | 38df85f | Se agrega el footer | Se agrega el footer | 03/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | c1044f4 | Cambios en el login | Cambios en el login | 03/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | 977306a | feat: added sign up view | feat: added sign up view | 03/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | 5a3611e | feat: added functionality to TutoriasView | feat: added functionality to TutoriasView | 03/05/2024 |
 
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
@@ -1158,7 +1166,7 @@ Incluimos el código de los .feature en formato Gherkin en el directorio feature
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
-|  |                   |  | 
+| https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report | https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/main | 03/05/2024 | 
 
 
 #### 5.2.2.5.Execution Evidence for Sprint Review
