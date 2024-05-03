@@ -1180,6 +1180,9 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 | https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | c1044f4 | Cambios en el login | Cambios en el login | 03/05/2024 |
 | https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | 977306a | feat: added sign up view | feat: added sign up view | 03/05/2024 |
 | https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | 5a3611e | feat: added functionality to TutoriasView | feat: added functionality to TutoriasView | 03/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | dfe7f4d | Se creo el array en el json channels | Se creo el array en el json channels | 03/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | b9bf9f4 | se creo el script de MaterialView | se creo el script de MaterialView | 03/05/2024 |
+| https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | a132e75 | Se creo la template y se le agrego el style | Se creo la template y se le agrego el style | 03/05/2024 |
 
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
