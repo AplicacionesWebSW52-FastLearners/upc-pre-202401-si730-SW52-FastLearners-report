@@ -20,15 +20,21 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 10/04/2024 | FastLearners |Se crea el documento |
-
+| 0.0 | 10/04/2024 | FastLearners | Se crea el documento |
+| 1.0 | 14/04/2024 | FastLearners | Se concluye el informe para la TB1 |
+| 2.0 | 03/05/2024 | FastLearners | Se concluye el informe para el TP | 
+         
 # Project Report Collaboration Insights
 
-**Commits del repositorio actual (informe):** 
+**Commits del repositorio actual (informe TP):** 
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/8616955d-bc74-46d5-99f2-1d4f6332dbb5)
+
+**Commits del repositorio actual (informe TB1):** 
 
 <img src="assets/images/CommitsWeb.png" alt="Imagen del compañero" style="width:100%">
 
-**Commits del repositorio de Open Source (informe):**
+**Commits del repositorio de Open Source (informe TB1):**
 
 <img src="assets/images/Commits TB1v2.png" alt="Imagen del compañero" style="width:100%">
 
