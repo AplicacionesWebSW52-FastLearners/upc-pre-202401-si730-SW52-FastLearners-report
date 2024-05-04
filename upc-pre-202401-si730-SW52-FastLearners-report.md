@@ -1271,7 +1271,7 @@ Link de la aplicación web desplegada: https://fastlearners-appsweb.web.app/
 
 | Alumno | Actividad |
 |--------|-----------|
-| Olivera Guerra, Santiago Mickelle | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.5 y 5.2.2.6) |
+| Olivera Guerra, Santiago Mickelle | Desarrollo del Frontend, Reporte (5.2.2.5 y 5.2.2.6) |
 | Orrego Noriega, Jorge David | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.7 y 5.2.2.8) |
 | Ochoa Colonio, Carlos Alberto | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.1 al 5.2.2.4) |
 | Pachas Chavez, Alejandro Alberto |Desarrollo del Frontend, Reporte (5.2.2.1 al 5.2.2.4) |
@@ -1281,6 +1281,10 @@ Link de la aplicación web desplegada: https://fastlearners-appsweb.web.app/
 **Repositorio Landing Page:**
 
 ![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/c2ef5784-a95c-4e5f-9684-d4d12ee22372)
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/38dcb15a-858b-44fd-a28a-0421c5e9fc79)
+
+Se utilizó la misma landing page del trabajo del curso de Open Source.
 
 
 **Repositorio Frontend:**
