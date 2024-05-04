@@ -1211,7 +1211,7 @@ US03:
 US04:
 ![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/blob/74d494058366fec85c28d7c23d9df6260f68821a/assets/images/Multimedia.png)
 
-#### 5.2.2.6.Execution Evidence for Sprint Review:
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review:
 
 Durante el sprint 2 unicamente se planifico que el sprint conformaria el desarrollo de la landing page y el front-end, por ello no llevamos a cabo algun desarrollo de una API, pero que mas adelante si se llevará a cabo para que nuestros usuarios tengan acceso al contenido completo de nuestro producto.
 
