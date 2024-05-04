@@ -1289,7 +1289,7 @@ Se utilizó la misma landing page del trabajo del curso de Open Source.
 
 **Repositorio Frontend:**
 
-![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/3c5d13e3-1f74-4207-b388-fa978402a910)
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/3b22e516-1d28-461c-aec6-df49e3299082)
 
 
 # Conclusiones y recomendaciones.
