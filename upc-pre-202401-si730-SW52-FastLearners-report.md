@@ -1378,9 +1378,138 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 
 ### 5.3.1. Diseño de Entrevistas.
 
+Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
+
+#### Landing Page
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/b855f97d-d0e4-47fd-bfcc-5e2bcd60bd44)
+
+#### FrontEnd Web Application
+
+#### User Flows a validar en el Landing Page
+
+f. User Flow Diagram F: Suscribirse a un plan
+
+#### User Flows a validar en el Frontend Web Application
+
+a. User Flow Diagram A: Iniciar Sesion <br>
+b. User Flow Diagram B: Visualizar Cuenta <br>
+c. User Flow Diagram C: Revisar el foro <br>
+d. User Flow Diagram D: Revisar los repositorios <br> 
+e. User Flow Diagram E: Revisar los recursos multimedia <br>
+f. User Flow Diagram F: Suscribirse a un plan <br>
+
+Preguntas que se realizaran a los entrevistados:
+
+a. ¿Despues de ver nuestra Landing Page, te dio curiosidad nuestro producto? <br>
+b. ¿Lograste visualizar el inicio de sesion en la pagina web de nuestra aplicacion? ¿Te parecio sencillo? <br>
+c. ¿Lograste visualizar tu cuenta en la pagina web de nuestra aplicacion? ¿Te parece una interfaz amigable? <br>
+d. ¿Lograste revisar el foro? ¿Te llamo la atencion? <br>
+e. ¿Lograste revisar los repositorios? ¿Alguno de tu interes? <br>
+d. ¿Lograste revisar los recursos multimedia? ¿Te parece una buena herramienta de estudio? <br>
+f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti? <br>
+
 ### 5.3.2. Registro de Entrevistas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
+**Site o App a evaluar:** FastLearners
+
+**Meta:** Encontrar los problemas que existen dentro de nuestra aplicacion web de FastLearners
+
+**Cómo lo haremos:** Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+#### Tareas a evaluar:
+
+1. Iniciar sesion en la aplicacion
+2. Visualizar los datos de la cuenta usuario
+3. Visualizar archivos multimedia
+4. Visualizar repositorios
+5. Visualizar el foro estudiantil
+
+#### No estan incluidas en esta version de la evaluacion las siguientes tareas:
+
+1. Seccion de compra de suscripciones
+2. Subir contenido
+3. Visualizar contenido subido
+4. Editar cuenta usuario
+
+#### Escala de Severidad:
+Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Nivel de descripcion|
+|-----|--------------------|
+|  1  |Problema superficial: puede ser facilemente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo|
+|  2  |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|  3  |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta|
+|  4  |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento|
+
+#### Tabla Resumen (Problemas):
+|#|Problema|Escala de severidad|Herustica/Principio violada(o)|
+|-|--------|-------------------|------------------------------|
+|1| Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido" | 4 | Usability: Usabilidad y control del usuario |
+|2| Problema con la visualizacion del contenido cargado por parte del usuario en la seccion "Ver contenido subido" | 4 | Usability: Usabilidad y control del usuario |
+|3| Falta de imagenes de referencia para el usuario en la seccion "Material multimedia" | 1 | Inclusive Design: Proporciona experiencias comparables |
+|4| Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion" | 2 | Usability: Usabilidd y control del usuario |
+
+#### Descripccion de problemas:
+
+#### Problema N°1:
+Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido".
+
+Severidad: 4
+Heuristica violada: Usability: Usabilidad y control del usuario
+
+Problema: <br>
+Cuando el usuario quiere cargar su contenido en la plataforma, no se genera ninguna subida visual ni carga de archivos disponible para que el usuario pueda usar esta funcionalidad, esto limitando la experiencia por completo de parte del mismo usuario.
+
+<img src="assets/images/Subircontenido.png" alt="Subida de contenido" style="width:100%;">
+
+Recomendacion:<br>
+Para lograr solucionar este problema, recomiendo por un lado crear una vista para la carga de contenido, con titulo, descripcion y tipo de contenido, podría haber una imagen referenciar (opcional). Y por otro lado ver por parte del json que la subida de contenido se guarde para que no quede en blanco la subida. 
+
+#### Problema N°2:
+Problema con la visualizacion del contenido cargado por parte del usuario en la seccion "Ver contenido subido".
+
+Severidad: 4
+Heuristica violada: Usability: Usabilidad y control del usuario
+
+Problema: <br>
+Cuando el usuario quiere visualizar su contenido cargado en la plataforma, no se genera ninguna seccion de visualizacion y/o edicion de archivos disponible para que el usuario pueda usar esta funcionalidad.
+
+<img src="assets/images/Editarcontenido.png" alt="Visualizacion y edicion de contenido" style="width:100%;">
+
+Recomendacion:<br>
+Para lograr solucionar este problema, recomiendo por un lado crear una vista para la visualizacion y edicion de contenido. Y por otro lado ver por parte del json que en el archivo si se haya guardado correctamente el contenido úblicado por el mismo usuario.
+
+#### Problema N°3:
+Falta de imagenes de referencia para el usuario en la seccion "Material multimedia".
+
+Severidad: 1
+Heuristica violada: Inclusive Design: Proporciona experiencias comparables
+
+Problema: <br>
+Al ingresar a la seccion de material multimedia, el usuario no tiene imagenes referenciales para poder guiarse o entrar mas confiado al contenido, esto haciendo que algunos usuarios no ingresen al contenido publicado.
+
+<img src="assets/images/ImgRef.png" alt="Imagenes referenciales" style="width:100%;">
+
+Recomendacion:<br>
+Para lograr solucionar el problema del usuario, se deberia generar una seccion en el apartado de "subir contenido" para que puedan agregar imagenes referenciales, esto dando mas confianza y tranquilidad al usuario y de igual manera generando mayor estetica en la plataforma. 
+
+#### Problema N°4:
+Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion".
+
+Severidad: 2
+Heuristica violada: Usability: Usabilidad y control del usuario
+
+Problema: <br>
+Al iniciar sesion, existe un boton para los usuarios si es que llegaron a olvidar su contraseeña y este no te genera ninguna ayuda al problema de olvidar tu contraseña
+
+<img src="assets/images/OlvContra.png" alt="¿Olvidaste tu contraseña?" style="width:100%;">
+
+Recomendacion:<br>
+Para lograr solucionar el problema del usuario, se deberia generar una vista en la cual el usuario ingrese su correo electronico o su numero telefonico para que le envien un codigo o link de recuperacion de contraseña, de esta manera solucionando el problema  
+
 
 ## 5.4. Video About-the-Product.
 # Conclusiones y recomendaciones.
