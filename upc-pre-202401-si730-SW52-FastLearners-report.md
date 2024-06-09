@@ -1347,7 +1347,15 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+| | | |
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+| | |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -1356,6 +1364,15 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+| Alumno | Actividad |
+|--------|-----------|
+| Olivera Mickelle, Santiago | Reporte  |
+| Orrego Noriega, Jorge David | Reporte |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Backend |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Backend |
+| Mendez Rosales, Marco Aurelio | Reporte (5.2.3.3 al 5.2.3.8) |
+
 
 ## 5.3. Validation Interviews.
 
