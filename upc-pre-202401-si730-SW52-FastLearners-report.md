@@ -1299,6 +1299,18 @@ Se utilizó la misma landing page del trabajo del curso de Open Source.
 
 #### 5.2.3.1. Sprint Planning 3
 
+Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver los comentarios recibidos del Sprint 2, realizar el BackEnd, asímismo hacer los servicios necesarios según nuestras User Stories
+
+| Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
+|--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
+| 3    | 31/06/2024 | 17:00 | Reunión Virtual mediante Discord | Marco Mendez| Carlos Ochoa, Jorge Orrego, Santiago Olivera, Marco Mendez, Alejandro Pachas                           
+
+| Sprint 3 Goal                                        | Velocity | Sum of Story Points |
+|------------------------------------------------------|----------|---------------------|
+| Resolución de comentarios recibidos en el Sprint 2  | 15       | 15                 |
+| Realizar el Back End de la web application utilizando .NET y C# | 65 | 65              |
+| Creación de Servicios y implementación con Azure y Dockers    |20 | 20|     
+
 #### 5.2.3.2. Sprint Backlog 3
 
 #### 5.2.3.3. Development Evidence for Sprint Review
