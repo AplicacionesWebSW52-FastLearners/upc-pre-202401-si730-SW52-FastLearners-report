@@ -1386,6 +1386,8 @@ Para poder hacer una validacion de nuestras entrevistas se empleará los siguien
 
 #### FrontEnd Web Application
 
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/86fc5bca-c48d-49b3-b1c1-8a52f71ca820)
+
 #### User Flows a validar en el Landing Page
 
 f. User Flow Diagram F: Suscribirse a un plan
@@ -1455,61 +1457,64 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 #### Descripccion de problemas:
 
 #### Problema N°1:
-Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido".
+* **Descripción:** Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido".
+* **Severidad:** 4
+* **Heuristica violada:** Usability (Usabilidad y control del usuario)
 
-Severidad: 4
-Heuristica violada: Usability: Usabilidad y control del usuario
+**Detalles:**
 
-Problema: <br>
 Cuando el usuario quiere cargar su contenido en la plataforma, no se genera ninguna subida visual ni carga de archivos disponible para que el usuario pueda usar esta funcionalidad, esto limitando la experiencia por completo de parte del mismo usuario.
 
 <img src="assets/images/Subircontenido.png" alt="Subida de contenido" style="width:100%;">
 
-Recomendacion:<br>
+**Recomendación:**
+
 Para lograr solucionar este problema, recomiendo por un lado crear una vista para la carga de contenido, con titulo, descripcion y tipo de contenido, podría haber una imagen referenciar (opcional). Y por otro lado ver por parte del json que la subida de contenido se guarde para que no quede en blanco la subida. 
 
 #### Problema N°2:
-Problema con la visualizacion del contenido cargado por parte del usuario en la seccion "Ver contenido subido".
 
-Severidad: 4
-Heuristica violada: Usability: Usabilidad y control del usuario
+* **Descripción:** Problema con la visualizacion del contenido cargado por parte del usuario en la seccion "Ver contenido subido".
+* **Severidad:** 4
+* **Heuristica violada:** Usability (Usabilidad y control del usuario)
 
-Problema: <br>
+**Detalles:** 
+
 Cuando el usuario quiere visualizar su contenido cargado en la plataforma, no se genera ninguna seccion de visualizacion y/o edicion de archivos disponible para que el usuario pueda usar esta funcionalidad.
 
 <img src="assets/images/Editarcontenido.png" alt="Visualizacion y edicion de contenido" style="width:100%;">
 
-Recomendacion:<br>
+**Recomendación:**
+
 Para lograr solucionar este problema, recomiendo por un lado crear una vista para la visualizacion y edicion de contenido. Y por otro lado ver por parte del json que en el archivo si se haya guardado correctamente el contenido úblicado por el mismo usuario.
 
 #### Problema N°3:
-Falta de imagenes de referencia para el usuario en la seccion "Material multimedia".
+* **Descripción:** Falta de imagenes de referencia para el usuario en la seccion "Material multimedia".
+* **Severidad:** 1
+* **Heuristica violada:** Inclusive Design (Proporciona experiencias comparables)
 
-Severidad: 1
-Heuristica violada: Inclusive Design: Proporciona experiencias comparables
+**Detalles:** 
 
-Problema: <br>
 Al ingresar a la seccion de material multimedia, el usuario no tiene imagenes referenciales para poder guiarse o entrar mas confiado al contenido, esto haciendo que algunos usuarios no ingresen al contenido publicado.
 
 <img src="assets/images/ImgRef.png" alt="Imagenes referenciales" style="width:100%;">
 
-Recomendacion:<br>
+**Recomendación:**
+
 Para lograr solucionar el problema del usuario, se deberia generar una seccion en el apartado de "subir contenido" para que puedan agregar imagenes referenciales, esto dando mas confianza y tranquilidad al usuario y de igual manera generando mayor estetica en la plataforma. 
 
 #### Problema N°4:
-Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion".
+* **Descripción:** Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion".
+* **Severidad:** 2
+* **Heuristica violada:** Usability (Usabilidad y control del usuario)
 
-Severidad: 2
-Heuristica violada: Usability: Usabilidad y control del usuario
+**Detalles:**
 
-Problema: <br>
 Al iniciar sesion, existe un boton para los usuarios si es que llegaron a olvidar su contraseeña y este no te genera ninguna ayuda al problema de olvidar tu contraseña
 
 <img src="assets/images/OlvContra.png" alt="¿Olvidaste tu contraseña?" style="width:100%;">
 
-Recomendacion:<br>
+**Recomendacion:**
 Para lograr solucionar el problema del usuario, se deberia generar una vista en la cual el usuario ingrese su correo electronico o su numero telefonico para que le envien un codigo o link de recuperacion de contraseña, de esta manera solucionando el problema  
-
 
 ## 5.4. Video About-the-Product.
 # Conclusiones y recomendaciones.
