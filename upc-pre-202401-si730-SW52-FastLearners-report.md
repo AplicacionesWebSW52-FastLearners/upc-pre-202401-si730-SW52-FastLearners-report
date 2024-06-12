@@ -1365,6 +1365,15 @@ Se desarrollaron los web services correspondientes al backend de la aplicación 
 
 #### 5.2.3.6.  Services Documentation Evidence for Sprint Review.
 
+Entorno de desarrollo en Rider: 
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/440551ff-7597-437e-a21b-6bc46737c393)
+
+Visualización e interacción con la API por Swagger: 
+
+![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/36f83c56-c4eb-4c87-b9ae-5ac1b6f4a88c)
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Se intentó desplegar el backend en Azure sin éxito, se tendrá que remediar en el siguiente sprint. 
