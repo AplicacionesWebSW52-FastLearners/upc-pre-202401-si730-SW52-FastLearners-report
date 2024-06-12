@@ -1355,13 +1355,19 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
-| | |
+|https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/tree/main | main | 10/06/2024 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+Se desarrollaron los web services correspondientes al backend de la aplicación web.
+
+**Link del repositorio:** https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW 
 
 #### 5.2.3.6.  Services Documentation Evidence for Sprint Review.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Se intentó desplegar el backend en Azure sin éxito, se tendrá que remediar en el siguiente sprint. 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
