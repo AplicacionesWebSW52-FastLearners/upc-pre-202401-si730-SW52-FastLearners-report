@@ -1569,3 +1569,8 @@ McKinsey & Company. (s.f.). New global data reveal education technology's impact
 McKinsey & Company. (s.f.). Demand for online education is growing: Are providers ready? Recuperado de https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
 
 The Brookings Institution. (s.f.). Realizing the promise: How can education technology improve learning for all? Recuperado de https://www.brookings.edu/articles/realizing-the-promise-how-can-education-technology-improve-learning-for-all/
+
+# Anexos 
+
+* Video About the Product: https://youtu.be/sJkbcBbgWeM
+* Video About the Team: 
