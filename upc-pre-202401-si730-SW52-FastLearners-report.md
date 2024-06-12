@@ -1488,8 +1488,6 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 
 Cuando el usuario quiere cargar su contenido en la plataforma, no se genera ninguna subida visual ni carga de archivos disponible para que el usuario pueda usar esta funcionalidad, esto limitando la experiencia por completo de parte del mismo usuario.
 
-<img src="assets/images/Subircontenido.png" alt="Subida de contenido" style="width:100%;">
-
 **Recomendación:**
 
 Para lograr solucionar este problema, recomiendo por un lado crear una vista para la carga de contenido, con titulo, descripcion y tipo de contenido, podría haber una imagen referenciar (opcional). Y por otro lado ver por parte del json que la subida de contenido se guarde para que no quede en blanco la subida. 
@@ -1504,8 +1502,6 @@ Para lograr solucionar este problema, recomiendo por un lado crear una vista par
 
 Cuando el usuario quiere visualizar su contenido cargado en la plataforma, no se genera ninguna seccion de visualizacion y/o edicion de archivos disponible para que el usuario pueda usar esta funcionalidad.
 
-<img src="assets/images/Editarcontenido.png" alt="Visualizacion y edicion de contenido" style="width:100%;">
-
 **Recomendación:**
 
 Para lograr solucionar este problema, recomiendo por un lado crear una vista para la visualizacion y edicion de contenido. Y por otro lado ver por parte del json que en el archivo si se haya guardado correctamente el contenido úblicado por el mismo usuario.
@@ -1519,8 +1515,6 @@ Para lograr solucionar este problema, recomiendo por un lado crear una vista par
 
 Al ingresar a la seccion de material multimedia, el usuario no tiene imagenes referenciales para poder guiarse o entrar mas confiado al contenido, esto haciendo que algunos usuarios no ingresen al contenido publicado.
 
-<img src="assets/images/ImgRef.png" alt="Imagenes referenciales" style="width:100%;">
-
 **Recomendación:**
 
 Para lograr solucionar el problema del usuario, se deberia generar una seccion en el apartado de "subir contenido" para que puedan agregar imagenes referenciales, esto dando mas confianza y tranquilidad al usuario y de igual manera generando mayor estetica en la plataforma. 
@@ -1533,8 +1527,6 @@ Para lograr solucionar el problema del usuario, se deberia generar una seccion e
 **Detalles:**
 
 Al iniciar sesion, existe un boton para los usuarios si es que llegaron a olvidar su contraseeña y este no te genera ninguna ayuda al problema de olvidar tu contraseña
-
-<img src="assets/images/OlvContra.png" alt="¿Olvidaste tu contraseña?" style="width:100%;">
 
 **Recomendacion:**
 Para lograr solucionar el problema del usuario, se deberia generar una vista en la cual el usuario ingrese su correo electronico o su numero telefonico para que le envien un codigo o link de recuperacion de contraseña, de esta manera solucionando el problema  
