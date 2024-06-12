@@ -1573,4 +1573,4 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 # Anexos 
 
 * Video About the Product: https://youtu.be/sJkbcBbgWeM
-* Video About the Team: 
+* Video About the Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EZNPWyT38hlDo7pSjphIMXQBUBv94xlV-iSfVHQ0g8nQTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PXXZb4 
