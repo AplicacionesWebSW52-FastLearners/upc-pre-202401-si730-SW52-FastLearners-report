@@ -811,20 +811,32 @@ El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua de
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock (gestion) y otro enfocado en los proveedores (suministros)) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse (se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis).
-<img src="assets/images/Context_Diagram.png" alt="ContextDiagram" style="width:90%">
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/f1073f21-fa10-419a-9b84-15b7ff536773)
+
    
 ### 4.6.2. Software Architecture Container Diagrams.
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
-<img src="assets/images/Container_diagram.png" alt="ContainerDiagram" style="width:90%">
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/657e159c-f2f6-49d8-82c9-d5bf292c0ba0)
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
-<img src="assets/images/Component_diagram.png" alt="ComponentDiagram" style="width:90%">
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/52b84c60-6cc4-47ca-96dc-9a96be222f4c)
+
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
-<img src="assets/images/cD.png" alt="ClassDiagram" style="width:90%">
+Se agregaron distintos patrones, entre ellos:
+1.  Patrón Composite:
+ Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/2fe59996-ab23-462f-945d-cd16a3462420)
+
+
 ### 4.7.2. Class Dictionary.
 Para el diccionario de clases, se presentan las más importantes
 
@@ -894,33 +906,6 @@ Question representa la clase de pregunta sobre un contenido específico.
 | editQuestion(in newBody:String)     | void - Edita el cuerpo de la pregunta con el nuevo contenido proporcionado |
 | addAnswer(in answer:Answer)         | void - Agrega una respuesta a la pregunta                         |
 
-### NotificationManager
-
-NotificationManager representa la clase de control de las notificaciones.
-
-| Atributo       | Descripción                                                          |
-|----------------|----------------------------------------------------------------------|
-| notification   | Notification - Objeto de tipo Notification que representa la notificación |
-| author         | User - Usuario (objeto de tipo User) que creó la notificación       |
-| creationDate   | date - Fecha de creación de la notificación                         |
-
-#### Métodos
-
-| Método                                | Descripción                                                      |
-|--------------------------------------|------------------------------------------------------------------|
-| sendNotification()                   | void - Envía la notificación                                    |
-| createNotification(in User, in title, in content, in date) | void - Crea una notificación con los parámetros especificados |
-
-### Notification
-
-Notification representa la clase de notificaciones.
-
-| Atributo       | Descripción                                            |
-|----------------|--------------------------------------------------------|
-| id             | int - Identificador único de la notificación          |
-| title          | string - Título de la notificación                     |
-| content        | string - Contenido o mensaje de la notificación       |
-| date           | date - Fecha de la notificación                        |
 
 ### PaymentCard
 
@@ -947,12 +932,15 @@ Membership representa la clase del tipo de membresía.
 | Atributo  | Descripción                              |
 |-----------|------------------------------------------|
 | Basic     | Representa la membresía básica           |
-| Pro       | Representa la membresía Pro              |
+| Regular    | Representa la membresía Regular              |
+| Pro | Representa la membresía Pro      |
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
-<img src="assets/images/db.png" alt="DatabaseDiagram" style="width:90%">
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/0fa8fddb-9bb6-47a7-ac75-a53c519264cb)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
