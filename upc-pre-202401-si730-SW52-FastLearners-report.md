@@ -5,8 +5,12 @@
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN SW52
  Profesor: Juan Carlos Tinoco Licas
 
-# Informe de TB1
+# Informe TF
+
+
 **Startup:** FastLearners
+
+
 
 ### Integrantes:
 
@@ -16,14 +20,19 @@
 - Mendez Rosales, Marco Aurelio - u202018273
 - Olivera Guerra, Santiago Mickelle - u20201a821
 
----
+
 # Registro de Versiones del Informe
+
+
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 0.0 | 10/04/2024 | FastLearners | Se crea el documento |
 | 1.0 | 14/04/2024 | FastLearners | Se concluye el informe para la TB1 |
-| 2.0 | 03/05/2024 | FastLearners | Se concluye el informe para el TP | 
-         
+| 2.0 | 03/05/2024 | FastLearners | Se concluye el informe para el TP |
+| 3.0 | 11/06/2024 | FastLearners | Se concluye el informe para el TB2 |
+| 4.0 | 27/06/2024 | FastLearners | Se concluye el informe para el TF |
+
+
 # Project Report Collaboration Insights
 
 **Commits del repositorio actual (informe TP):** 
@@ -53,8 +62,8 @@ Como se trabajó el mismo proyecto que en el curso de Open Source, los commits d
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web.Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa: <br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> <br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> *TP:* Me encargúe de colaborar en el desarrollo del frontend y del reporte en equipo. <br> *TB2:* Me encargúe de colaborar en el desarrollo del reporte en equipo. <br> *TF:* Me encargúe de colaborar en el desarrollo del backend y del reporte en equipo. <br> <br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa: <br> *TB1:*  Desarrollé el apartado del Lean UX Process <br> <br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web siguiendo las necesidades de los sectores objetivos. <br>  *TP:*  Me encargué del despliegue de la aplicación. <br> *TB2:*  Me encargué de formular las preguntas para las entrevistas de validación. <br> *TF:*  Me encargué de revisar las entrevistas y de analizarlas para sacar conclusiones. <br>  <br> Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
 
 # Contenido 
 
