@@ -56,6 +56,121 @@ Como se trabajó el mismo proyecto que en el curso de Open Source, los commits d
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web.Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
 
+# Contenido 
+
+1. [Capítulo I: Introducción](#cap1)<br>
+   1.1. [Startup Profile](#1.1.)<br>
+      1.1.1. [Descripción del startup](#1.1.1.)<br>
+      1.1.2. [Perfiles de los integrantes del equipo](#1.1.2.)<br>
+   1.2. [Solution Profile](#1.2.)<br>
+      1.2.1. [Antecedentes y Problemática](#1.2.1.)<br>
+      1.2.2. [Lean UX Process](#1.2.2.)<br>
+        1.2.2.1. [Lean UX Problem Statements](#1.2.2.1.)<br>
+        1.2.2.2. [Lean UX Assumptions](#1.2.2.2.)<br>
+        1.2.2.3. [Lean UX Hypothesis Statements](#1.2.2.3.)<br>
+        1.2.2.4. [Lean UX Canvas](#1.2.2.4.)<br>
+   1.3. [Segmentos objetivo](#1.3.)<br>
+2. [Capítulo II: Requirements Elicitation & Analysis](#cap2)<br>
+   2.1. [Competidores](#2.1.)<br>
+      2.1.1. [Análisis competitivo](#2.1.1.)<br>
+      2.1.2. [Estrategias y tácticas frente a competidores](#2.1.2.)<br>
+   2.2. [Entrevistas](#2.2.)<br>
+      2.2.1. [Diseño de entrevistas](#2.2.1.)<br>
+      2.2.2. [Registro de entrevistas](#2.2.2.)<br>
+      2.2.3. [Análisis de entrevistas](#2.2.3.)<br>
+   2.3. [Needfinding](#2.3.)<br>
+      2.3.1. [User Personas](#2.3.1.)<br>
+      2.3.2. [User Task Matrix](#2.3.2.)<br>
+      2.3.3. [User Journey Mapping](#2.3.3.)<br>
+      2.3.4. [Empathy Mapping](#2.3.4.)<br>
+      2.3.5. [As-is Scenario Mapping](#2.3.5.)<br>
+   2.4. [Ubiquitous Language](#2.4.) <br>
+3. [Capítulo III: Requirements Specification](#cap3)<br>
+   3.1. [To-Be Scenario Mapping](#3.1.)<br>
+   3.2. [User Stories](#3.2.)<br>
+   3.3. [Impact Mapping](#3.3.)<br>
+   3.4. [Product Backlog](#3.4.)<br>
+4. [Capítulo IV: Product Design](#cap4)<br>
+   4.1. [Style Guidelines](#4.1.)<br>
+      4.1.1. [General Style Guidelines](#4.1.1.)<br>
+      4.1.2. [Web Style Guidelines](#4.1.2.)<br>
+   4.2. [Information Architecture](#4.2.)<br>
+      4.2.1. [Organization Systems](#4.2.1.)<br>
+      4.2.2. [Labeling Systems](#4.2.2.)<br>
+      4.2.3. [SEO Tags and Meta Tags](#4.2.3.)<br>
+      4.2.4. [Searching Systems](#4.2.4.)<br>
+      4.2.5. [Navigation Systems](#4.2.5.)<br>
+   4.3. [Landing Page UI Design](#4.3.)<br>
+      4.3.1. [Landing Page Wireframe](#4.3.1.)<br>
+      4.3.2. [Landing Page Mock-up](#4.3.2.)<br>
+   4.4. [Web Applications UX/UI Design](#4.4.)<br>
+      4.4.1. [Web Applications Wireframes](#4.4.1.)<br>
+      4.4.2. [Web Applications Wireflow Diagrams](#4.4.2.)<br>
+      4.4.3. [Web Applications Mock-ups](#4.4.3.)<br>
+      4.4.4. [Web Applications User Flow Diagrams](#4.4.4.)<br>
+   4.5. [Web Applications Prototyping](#4.5.)<br>
+   4.6. [Domain-Driven Software Architecture](#4.6.)<br>
+      4.6.1. [Software Architecture Context Diagram](#4.6.1.)<br>
+      4.6.2. [Software Architecture Container Diagrams](#4.6.2.)<br>
+      4.6.3. [Software Architecture Components Diagrams](#4.6.3.)<br>
+   4.7. [Software Object-Oriented Design](#4.7.)<br>
+      4.7.1. [Class Diagrams](#4.7.1.)<br>
+      4.7.2. [Class Dictionary](#4.7.2.)<br>
+   4.8. [Database Design](#4.8.)<br>
+      4.8.1. [Database Diagram](#4.8.1.)<br>
+5. [Capítulo V: Product Implementation, Validation & Deployment](#cap5)<br>
+   5.1. [Software Configuration Management](#5.1.)<br>
+      5.1.1. [Software Development Environment Configuration](#5.1.1.)<br>
+      5.1.2. [Source Code Management](#5.1.2.)<br>
+      5.1.3. [Source Code Style Guide & Conventions](#5.1.3.)<br>
+      5.1.4. [Software Deployment Configuration](#5.1.4.)<br>
+   5.2. [Landing Page, Services & Applications Implementation](#5.2.)<br>
+      5.2.1. [Sprint 1](#5.2.1.)<br>
+         5.2.1.1. [Sprint Planning 1](#5.2.1.1.)<br>
+         5.2.1.2. [Sprint Backlog 1](#5.2.1.2.)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#5.2.1.3.)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#5.2.1.4.)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#5.2.1.5.)<br>
+         5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
+         5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
+         5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+      5.2.2. [Sprint 2](#5.2.2.)<br>
+         5.2.2.1. [Sprint Planning 2](#5.2.2.1.)<br>
+         5.2.2.2. [Sprint Backlog 2](#5.2.2.2.)<br>
+         5.2.2.3. [Development Evidence for Sprint Review](#5.2.2.3.)<br>
+         5.2.2.4. [Testing Suite Evidence for Sprint Review](#5.2.2.4.)<br>
+         5.2.2.5. [Execution Evidence for Sprint Review](#5.2.2.5.)<br>
+         5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
+         5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
+         5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+      5.2.3. [Sprint 3](#5.2.3.)<br>
+         5.2.3.1. [Sprint Planning 3](#5.2.3.1.)<br>
+         5.2.3.2. [Sprint Backlog 3](#5.2.3.2.)<br>
+         5.2.3.3. [Development Evidence for Sprint Review](#5.2.3.3.)<br>
+         5.2.3.4. [Testing Suite Evidence for Sprint Review](#5.2.3.4.)<br>
+         5.2.3.5. [Execution Evidence for Sprint Review](#5.2.3.5.)<br>
+         5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
+         5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
+         5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+      5.2.4. [Sprint 4](#5.2.4.)<br>
+         5.2.4.1. [Sprint Planning 4](#5.2.4.1.)<br>
+         5.2.4.2. [Sprint Backlog 4](#5.2.4.2.)<br>
+         5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
+         5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
+         5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
+         5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.)<br>
+         5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.)<br>
+         5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.)<br>
+      5.3. [Validation Interviews](#5.3.)<br>
+         5.3.1. [Diseño de Entrevistas](#5.3.1.)<br>
+         5.3.2. [Registro de Entrevistas](#5.3.2.)<br>
+         5.3.3. [Evaluaciones según Heurísticas](#5.3.3.)<br>
+   5.4. [Video About-the-Product](#5.4.)<br>
+6. [Conclusiones](#conclusiones)<br>
+7. [Bibliografía](#bibliografía)<br>
+8. [Anexos](#anexos)
+
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
@@ -1375,6 +1490,133 @@ Se intentó desplegar el backend en Azure sin éxito, se tendrá que remediar en
 | Ochoa Colonio, Carlos Alberto | Reporte, Desarrollo del Backend |
 | Pachas Chavez, Alejandro Alberto | Reporte, Desarrollo del Backend |
 | Mendez Rosales, Marco Aurelio | Reporte, Desarrollo del Backend  |
+
+### 5.2.4 Sprint 4 <a name ="5.2.4.">
+
+#### 5.2.4.1 Sprint Planning 4 <a name ="5.2.4.1.">
+
+| Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
+|--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
+| 3    | 18/06/2024 | 22:00 | Reunión Virtual mediante Discord | Jorge Orrego | Carlos Ochoa, Jorge Orrego, Mathias Javier, Marco Mendez, Alejandro Pachas |    
+
+
+| Sprint 4 Goal                                        | Velocity | Sum of Story Points |
+|------------------------------------------------------|----------|---------------------|
+| Resolución de comentarios recibidos en el Sprint 3   | 15       | 15                  |
+| Terminar de conectar el backend con el frontend      | 65       | 65                  |
+| Desplegar últimas versiones del frontend y backend   | 10       | 10                 |
+| Terminar de subsanar tasks no realizadas en anteriores sprints  | 10        | 10     |
+
+
+#### 5.2.4.2 Sprint Backlog 4 <a name ="5.2.4.2.">
+
+
+En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anteriores sprints y las que habiamos previsto completar para el Sprint 4: 
+
+
+| Historia de Usuario | Title                                   | Id   | Title                           | Description                                               | Estimation (Hours) | Assigned To | Status (ToDo/InProcess/ToReview/Done) |
+|---------------------|-----------------------------------------|------|---------------------------------|-----------------------------------------------------------|--------------------|-------------|--------------------------------------|
+| HU02 | Registrarme rápidamente | T05 | Desarrollo de Sistema de Registro | Se desarrolla un sistema login | 4 | Pachas Chavez, Alejandro Alberto | Done |
+| HU02 | Registrarme rápidamente | T06 | Integración Backend Registro | Se realiza el Back-end | 6 | Mendez Rosales, Marco Aurelio | Done |
+| HU03 | Recibir correo de bienvenida | T07 | Envío Automático de Correo de Bienvenida | Se le envia un correo automatico al usuario nuevo que se ha registrado | 3 | Javier Murillo, Mathias |In Process |
+| HU03 | Recibir correo de bienvenida | T08 | Plantilla de Correo de Bienvenida | Se realiza el diseño mejorado del correo de bienvenida | 3 | Ochoa Colonio, Carlos Alberto | In Process |
+| HU04 | Buscar cursos y recursos | T09 | Funcionalidad de Búsqueda de Cursos | Se implementa el sistema para buscar cursos | 8 | Javier Murillo, Mathias | In Process |
+| HU04 | Buscar cursos y recursos | T10 | Diseño de Interfaz de Búsqueda | Se realiza el diseño para el sistema de búsqueda | 6 | Ochoa Colonio, Carlos Alberto | Done |
+| HU10 | Acceder a ejemplos de código y proyectos | T11 | Creación de Ejemplos de Código | Se crean ejemplos de código para llenar los repositorios | 5 | Mendez Rosales, Marco Aurelio | Done |
+| HU10 | Acceder a ejemplos de código y proyectos | T12 | Documentación de Ejemplos de Código | Se crea el readme para entender como funciona cada código | 6 | Pachas Chavez, Alejandro Alberto | Done |
+| HU11 | Acceder a ejemplos de código y proyectos           | TK11 | Segmento de ejemplos                              | Crear segmento para que el usuario pueda acceder a ejemplos de código y proyectos | 3                  | Marco Mendez       | Done                                  |
+| HU12 | Recibir retroalimentación sobre mi código           | TK12 | Segmento de retroalimentación sobre el código     | Crear segmento en el que el usuario pueda recibir retroalimentación sobre su código | 4                  | Carlos Ochoa       | Done                                  |
+| HU13 | Acceder a comunidad en línea                       | TK13 | Segmento de comunidad                             | Crear segmento en el que el usuario pueda compartir con su comunidad             | 5                  | Mathias            | Done                                  |
+| HU14 | Acceder a recursos avanzados de desarrollo móvil   | TK14 | Segmento de cursos avanzados                      | Crear segmento para que el usuario pueda acceder a recursos avanzados.           | 6                  | Alejandro          | Done                                  |
+| HU15 | Colaborar en proyectos de código abierto           | TK15 | Segmento de colaboración en línea                 | Crear segmento para que el usuario pueda colaborar en proyectos de código abierto | 5                  | Jorge Orrego       | Done                                  |
+| HU16 | Mantenerme actualizado sobre nuevas tecnologías    | TK16 | Segmento de noticias                              | Crear segmento para que el usuario pueda acceder a noticias sobre nuevas tecnologías | 5                  | Marco Mendez       | Done                                  |
+| HU17 | Recibir retroalimentación sobre mi arquitectura... | TK17 | Segmento de retroalimentación                     | Crear segmento para que el usuario pueda recibir y observar retroalimentación sobre su arquitectura de diseño | 5                  | Marco Mendez       | Done                                  |
+| HU18 | Acceder a herramientas de análisis de rendimie... | TK18 | Segmento de acceso a herramientas de análisis     | Crear segmento para que el usuario pueda acceder a una herramienta de análisis de rendimiento y calidad de código | 5                  | Jorge Orrego       | Done                                  |
+| HU19 | Realizar proyectos prácticos                      | TK19 | Segmento de creación de proyectos prácticos      | Crear segmento para que el usuario pueda practicar creando proyectos prácticos   | 5                  | Alejandro          | Done                                  |
+| HU20 | Acceder a recursos de referencia                  | TK20 | Segmento de recursos de referencia                | Crear segmento para que el usuario pueda acceder a recursos de referencia        | 5                  | Mathias, Carlos Ochoa | Done          |
+| HU23                | Recibir recomendaciones personalizadas  | TK41 | Algoritmo y recolección de datos | Desarrollar algoritmo y recolectar datos                   | 6                 | Alejandro      | To-Do                                |
+|                     |                                         | TK43 | Integración y preferencias      | Integrar recomendaciones y configurar preferencias         | 6                | Marco      | To-Do                                |
+|                     |                                         | TK45 | Adaptación y pruebas            | Adaptar el algoritmo y realizar pruebas                    | 8                | Carlos       | To-Do                                |
+| HU24                | Acceder a material de estudio descargable | TK47 | Preparación y actualización     | Preparar y actualizar el material                          | 4                | Carlos   | To-Do                                |
+|                     |                                         | TK48 | Funcionalidad y formatos        | Desarrollar funcionalidad de descarga en múltiples formatos | 4                | Marco      | To-Do                                |
+|                     |                                         | TK51 | Sincronización y pruebas        | Implementar sincronización y realizar pruebas              | 5                | Jorge       | To-Do                                |
+| HU25                | Participar en desafíos de programación  | TK53 | Diseño y evaluación             | Diseñar desafíos y desarrollar sistema de evaluación       | 6                 | Alejandro      | To-Do                                |
+|                     |                                         | TK54 | Plataforma y ranking            | Desarrollar plataforma y sistema de ranking                | 6                | Jorge         | To-Do                                |
+|                     |                                         | TK57 | Pruebas de desafíos             | Realizar pruebas de desafíos                               | 5                 | Marco     | To-Do                                |
+| HU26                | Acceder a material en varios idiomas    | TK58 | Traducción y pruebas            | Traducir materiales y realizar pruebas                     | 8                | Mathias       | To-Do                                |
+|                     |                                         | TK59 | UI para selección de idioma     | Diseñar UI para selección de idioma                        | 7                  | Mathias       | To-Do                                |
+| HU27                | Acceder a recursos para personas con discapacidad | TK61 | Subtítulos y audio descripción | Implementar subtítulos y audio descripción                 | 6                 | Marco      | To-Do                                |
+|                     |                                         | TK63 | Lectura fácil y pruebas         | Desarrollar lectura fácil y realizar pruebas de accesibilidad | 11                 | Mathias       | To-Do                                |
+| HU28                | Participar en eventos y conferencias virtuales | TK65 | Planificación y transmisión     | Planificación de eventos y configuración de transmisión en vivo | 6            | Alejandro   | To-Do                                |
+|                     |                                         | TK67 | Interacción y pruebas           | Desarrollar interacción y realizar pruebas                 | 8                 | Carlos     | To-Do                                |
+| HU29                | Acceder a recursos sobre tecnologías emergentes | TK69 | Desarrollo de contenido y plataforma | Desarrollar contenido y plataforma                         | 7                 | Jorge    | To-Do                                |
+|                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
+| HU30               | Colaborar en proyectos prácticos con otros usuarios | TK72 | Desarrollo de herramientas ade colaboración | Desarrollar herramientas de colaboración asíncrona                         | 7                 | Jorge    | To-Do                                |
+
+
+Del HU23 al HU30, todas las tasks son para expandir y mejorar los servicios de FastLearners, mas bien no son necesarias para su funcionamiento base. Se tenía planeado poder completarlas en este sprint, pero por un tema de tiempo y de alcance no se pudo realizar. 
+
+
+#### 5.2.4.3 Development Evidence for Sprint Review 4 <a name ="5.2.4.3.">
+
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+
+
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review 4 <a name ="5.2.4.4.">
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+
+
+#### 5.2.4.5 Execution Evidence for Sprint Review 4 <a name ="5.2.4.5.">
+
+Se desarrollaron los web services correspondientes al backend de la aplicación web.
+ 
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review 4 <a name ="5.2.4.6.">
+
+
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review 4 <a name ="5.2.4.7.">
+
+**Despliegue del frontend con Firebase:** 
+
+
+
+Link del despliegue: 
+
+**Despliegue del backend con Zeabur:** 
+
+
+
+
+
+Link del despliegue: 
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint 4 <a name ="5.2.4.8.">
+
+| Alumno | Actividad |
+|--------|-----------|
+| Javier Murillo, Mathias| Reporte (5.3 y 5.4), Desarrollo del Frontend |
+| Orrego Noriega, Jorge David | Desarrollo y despliegue del Frontend, Reporte |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Backend y Frontend |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Backend y Frontend|
+| Mendez Rosales, Marco Aurelio | Reporte (5.2.4.3 al 5.2.4.8) y desarrollo del Backend |
+
+Repositorio Informe: 
+
+
+
+Repositorio Landing Page: 
+
+
+
+Repositorio Frontend: 
+
+
+
+Repositorio Backend: 
+
+
 
 ## 5.3. Validation Interviews.
 
