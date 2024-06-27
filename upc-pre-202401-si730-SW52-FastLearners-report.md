@@ -1674,27 +1674,19 @@ f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti? <br>
 
 Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
 
-**Entrevistado N°1** 
+**Entrevistado N°1:  Carlos Guadalupe** 
 
-Este esta entrevista pudimos contactar con Matias Castillo, el es un entusiasta por la tecnologia y todo lo que la abarca y siempre ha querido aprender a programar en ciertos lenguajes como son Pynthon y C++, gracias a ello, nuestro producto es perfecto para el ya que exploremos junto a el Lading Page y nuestro Web Application. Luego que Matias interactue con todas las opciones y servicios que le brindamos a nuestros usuarios, nos comento, que la usabilidad del producto era muy sencilla para el usuario. Tambien nos comento que le parece una gran idea que personas experimentadas puedan compartir su propio contenido. Y como recomendacion nos dejo que estuvieramos al tanto del contenido que subian los usuarios ya que no siempre puede ser correcto y/o puede inflingir los valores que tratamos de cubrir como startup.
+Este esta entrevista pudimos contactar con Carlos Guadalupe, estudiante de economía y entusiasta por la tecnologia y todo lo que la abarca y siempre ha querido aprender a programar en ciertos lenguajes como son Pynthon y C++, gracias a ello, nuestro producto es perfecto para el ya que exploremos junto a el Lading Page y nuestro Web Application. Luego que Matias interactue con todas las opciones y servicios que le brindamos a nuestros usuarios, nos comento, que la usabilidad del producto era muy sencilla para el usuario. Tambien nos comento que le parece una gran idea que personas experimentadas puedan compartir su propio contenido. Y como recomendacion nos dejo que estuvieramos al tanto del contenido que subian los usuarios ya que no siempre puede ser correcto y/o puede inflingir los valores que tratamos de cubrir como startup.
 
-**Entrevistado N°2**
+**Entrevistado Mariel Anicama**
 
-Como segundo entrevistado tenemos a Sebastian Brito, el es un desarrollador web, encargado del frontend. Junto a el haremos un recorrido por nuestro Landing Page y Web Application. Al terminar su recorrido nos comentó que le encanta la idea de poder compartir sus conocimientos con desarrolladores inexpertos y que le parece la mejor manera de aprender. Tambien nos deja como retroalimentacion el que hay que cuidar la estetica de nuestro producto, ya que, eso es lo que llamará a más usuarios, al igual que la facilidad de carga y descarga de contenido. 
+En la entrevista realizada tenemos como invitada a Mariel Anicama , junto a ella realizaremos un recorrido completo por nuestra Landing Page y Web Application, en el cual podremos ver todas las funcionalidades y servicios que ofrecemos. Mariel nos menciona que ella ha empezado hace poco en la programacion y que no ha encontrado informacion personalizada a su forma de aprendizaje. Al terminar nuestro recorrido, nos dejo como observacion 3 puntos muy importante a tomar en cuenta: el primero, le parecio una super idea poder tener mas de un metodo de aprendizaje, ya sea leyendo, esuchando o viendo. Segundo, le gustaria que no descuidaramos actualizar los repositorios y materiales de estudio, ya que, estos estan en constante evolucion. Y por ultimo le gustaria poder tener una seccion de lista de reproduccion para los materiales multimedia. Puntos clave que tomaremos en cuenta en futuras actualizaciones. 
 
-**Entrevistado N°3**
+**Entrevistado Luis Salinas**
 
-En la entrevista realizada tenemos como invitada a Grecia Zegarra, junto a ella realizaremos un recorrido completo por nuestra Landing Page y Web Application, en el cual podremos ver todas las funcionalidades y servicios que ofrecemos. Grecia nos menciona que ella ha empezado hace poco en la programacion y que no ha encontrado informacion personalizada a su forma de aprendizaje. Al terminar nuestro recorrido, nos dejo como observacion 3 puntos muy importante a tomar en cuenta: el primero, le parecio una super idea poder tener mas de un metodo de aprendizaje, ya sea leyendo, esuchando o viendo. Segundo, le gustaria que no descuidaramos actualizar los repositorios y materiales de estudio, ya que, estos estan en constante evolucion. Y por ultimo le gustaria poder tener una seccion de lista de reproduccion para los materiales multimedia. Puntos clave que tomaremos en cuenta en futuras actualizaciones. 
-
-
-**Entrevistado N°4** 
-
-Como cuarta entrevista tenemos a Agustin Ruiz, el nos comenta que trabaja hace 2 años en el sector de desarrollo de software, y le gustaria poder compartir con los jovenes programadores y/o estudiantes a fines, todo el material que le ayudo para llegar hasta donde el ha llegado. Para esto le daremos un recorrido por nuestra Landing Page y nuestro Web Application. Terminado el recorrido, Agustin nos comenta lo siguiente: Primero le parece que la interfaz es sencilla y facil de entender y segunda y ultima observacion, es que, tengamos cuidado por medio de un filtro lo que se subirá como contenido, ya que, puede que la informacion sea fraudulenta. Una observacion que tomaremos en cuenta muy cuidadosamente. 
+Como segundo entrevistado tenemos a Luis Salinas, el es un desarrollador web, encargado del frontend. Junto a el haremos un recorrido por nuestro Landing Page y Web Application. Al terminar su recorrido nos comentó que le encanta la idea de poder compartir sus conocimientos con desarrolladores inexpertos y que le parece la mejor manera de aprender. Tambien nos deja como retroalimentacion el que hay que cuidar la estetica de nuestro producto, ya que, eso es lo que llamará a más usuarios, al igual que la facilidad de carga y descarga de contenido. 
 
 
-**Entrevistado N°5**
-
-Y para finalizar con nuestras entrevistas tenemos a Rodrigo Vertiz, nos comenta que es su primer año en la carrera de Ingenieria de Software, y que le gustaria avanzar por su cuenta con algunos temas de programacion. Por ello, le daremos un recorrido por nuestra Landing Page y nuestra Web Application. Al finalizar nuestro recorrido, no comenta que los servicios que le brindamos a nuestros usuarios le parecen excelente, al igual que la manera de aprender con material que le sirvio a expertos y de igual modo la interfaz y el manejo del producto, es sencillo y visualmente accesible para todos.
 
 ### 5.3.3. Evaluaciones según heurísticas. <a name ="5.3.3.">
 
