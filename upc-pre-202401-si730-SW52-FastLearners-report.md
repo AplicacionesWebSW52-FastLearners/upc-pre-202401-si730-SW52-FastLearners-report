@@ -171,12 +171,12 @@ Como se trabajó el mismo proyecto que en el curso de Open Source, los commits d
 8. [Anexos](#anexos)
 
 
-# Capítulo I: Introducción
+# Capítulo I: Introducción <a name ="cap1">
 
-## 1.1. Startup Profile
+## 1.1. Startup Profile <a name ="1.1.">
 A continuación presentaremos el perfil de la Start Up y los perfiles de los integrantes
 
-### 1.1.1. Descripción de la Startup
+### 1.1.1. Descripción de la Startup <a name ="1.1.1.">
 Nuestra Start Up, llamada FastLearners, es una startup innovadora en el ámbito del aprendizaje tecnológico, diseñada para facilitar una plataforma de aprendizaje colaborativo exclusiva para programadores e ingenieros de software. A través de nuestra plataforma, los usuarios pueden compartir y acceder a una amplia gama de recursos educativos, como repositorios de código, documentación técnica y videos educativos. Nuestro enfoque se centra en la colaboración y el intercambio de conocimientos, permitiendo a los usuarios tanto aprender de forma autónoma como contribuir al aprendizaje colectivo. Adoptamos un modelo de negocio freemium, que permite a los usuarios acceder gratuitamente a una serie de recursos, con la opción de desbloquear características adicionales, como acceso a repositorios exclusivos, videos avanzados y documentación especializada, mediante una suscripción mensual. FastLearners se compromete a mantenerse a la vanguardia del desarrollo tecnológico, ofreciendo constantemente contenido actualizado y relevante para nuestra comunidad de aprendizaje en constante expansión.
 
 #### FastLearners
@@ -185,7 +185,7 @@ La misión de FastLearners es democratizar el acceso al conocimiento tecnológic
 - **Visión:**
 Nuestra visión es convertirnos en el principal recurso y comunidad en línea para el aprendizaje colaborativo de programación y desarrollo de software. Aspiramos a ser reconocidos a nivel mundial como la plataforma de elección para programadores e ingenieros de software que buscan mejorar sus habilidades, descubrir las últimas tendencias tecnológicas y colaborar en proyectos innovadores. En FastLearners, nos proponemos liderar la transformación en la educación tecnológica, eliminando barreras para el acceso al conocimiento y fomentando una cultura de aprendizaje continuo y colaboración. Nuestra visión a largo plazo incluye la expansión de nuestra oferta de recursos y herramientas educativas, asegurando que todos, desde principiantes hasta expertos, tengan las oportunidades y el apoyo necesarios para prosperar en la era digital.
 
-#### 1.1.2. Perfiles de integrantes del equipo
+#### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
 |Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
@@ -195,9 +195,9 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 |Olivera Guerra, Santiago Mickelle <img src = "assets/pictures profiles/Santiago.jpeg" alt="Imagen del compañero" style="width:60%">|u20201a821|Ingenieria de software|C++, Python, SQL, Azure, Trabajador y Amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 
-## 1.2. Solution Profile
+## 1.2. Solution Profile <a name ="1.2.">
 
-### 1.2.1 Antecedentes y problemática
+### 1.2.1 Antecedentes y problemática <a name ="1.2.1.">
 - **Antecedentes:**<br>
 La integración de la tecnología en la educación ha demostrado tener un impacto significativo en los resultados del aprendizaje, aunque su efectividad varía considerablemente según el tipo de tecnología utilizada, la geografía, y si los dispositivos están en manos de los profesores o los estudiantes. Por ejemplo, el uso de proyectores de datos e internet en las aulas se correlaciona con un rendimiento casi un nivel de grado mejor en la evaluación PISA, mientras que el uso de laptops y tabletas por parte de los estudiantes muestra resultados mixtos, dependiendo del sujeto y la región. En particular, en Estados Unidos, los estudiantes que usan laptops en el aula puntúan 17 puntos PISA más alto que aquellos que no lo hacen, sugiriendo que el contexto educativo y la forma en que se integra la tecnología son factores críticos para su éxito​ (McKinsey & Company)​.
 
@@ -230,15 +230,15 @@ La situación actual es consecuencia de un modelo educativo que no ha conseguido
 - **¿Cuánto?**<br>
 Según la Asociación de la Industria de Software (no real, ejemplo para ilustración), la escasez de talento en áreas clave de tecnología podría costar a la economía global más de $450 mil millones anuales, limitando severamente la innovación y el crecimiento económico. Esta escasez se traduce en aproximadamente 1 millón de puestos de trabajo tecnológicos vacantes cada año, exacerbando la brecha de habilidades en la industria​ (McKinsey & Company)
 
-### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
+### 1.2.2 Lean UX Process. <a name ="1.2.2.">
+#### 1.2.2.1. Lean UX Problem Statements. <a name ="1.2.2.1.">
 En el contexto actual, enfrentamos la imperiosa necesidad de crear una plataforma innovadora diseñada para revolucionar el aprendizaje tecnológico. Esta solución es fundamental para abordar el problema de acceso limitado y la ineficiencia en la educación especializada en programación y desarrollo de software, que obstaculiza el progreso de individuos en todo el espectro de habilidades tecnológicas. A pesar de la creciente demanda de profesionales tecnológicos cualificados, las opciones de aprendizaje disponibles no satisfacen las necesidades de un aprendizaje flexible, actualizado y colaborativo, dejando a muchos sin la oportunidad de avanzar en sus carreras o de adaptarse a nuevas tecnologías.
 
 Hemos identificado que la falta de una plataforma que integre efectivamente recursos educativos de calidad, interacción en tiempo real y un ambiente de aprendizaje colaborativo contribuye significativamente a esta brecha educativa. Esto no solo limita el desarrollo personal y profesional de los programadores e ingenieros de software sino que también repercute negativamente en la capacidad de innovación y crecimiento en el sector tecnológico.
 
 ¿Cómo podemos, entonces, desarrollar una plataforma que ofrezca una solución comprensiva a estos desafíos, proporcionando un medio accesible, interactivo y colaborativo para el aprendizaje tecnológico, y facilitando así un proceso de educación más eficiente, actualizado y alineado con las necesidades del mercado laboral tecnológico?
 
-#### 1.2.2.2. Lean UX Assumptions.
+#### 1.2.2.2. Lean UX Assumptions. <a name ="1.2.2.2."> <a name ="1.2.2.3.">
 |Business Assumptions|User Assumptions|
 |-|-|
 |Market Demand: Existe una demanda significativa y creciente de educación tecnológica especializada, particularmente en áreas de programación y desarrollo de software, que no está siendo completamente satisfecha por las soluciones educativas tradicionales o en línea existentes. |Modelo de Negocio: Un modelo freemium, que ofrece acceso básico gratuito con opciones de suscripción de pago para contenido avanzado y características adicionales, será efectivo en atraer una base de usuarios amplia y diversa, y luego convertir una porción significativa de esos usuarios en suscriptores pagos.|
@@ -246,7 +246,7 @@ Hemos identificado que la falta de una plataforma que integre efectivamente recu
 |Necesidades de Aprendizaje: Los usuarios prefieren un enfoque de aprendizaje flexible y autodirigido que les permita avanzar a su propio ritmo, volver sobre material difícil y explorar áreas de interés personal en mayor profundidad.|Búsqueda de Comunidad: Hay una fuerte demanda entre programadores e ingenieros de software, tanto novatos como experimentados, por una comunidad de apoyo donde puedan compartir conocimientos, resolver problemas juntos y formar conexiones profesionales.|
 |Preferencias de Contenido: Los usuarios valoran altamente el contenido educativo que es simultáneamente profundo, actualizado con las últimas tendencias y tecnologías, y aplicable a proyectos del mundo real.|Barreras de Acceso: La falta de recursos educativos asequibles y de alta calidad es una barrera significativa para muchos que buscan entrar o avanzar en el campo tecnológico, especialmente para aquellos en comunidades con menos recursos.|
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+#### 1.2.2.3. Lean UX Hypothesis Statements. <a name ="1.2.2.3.">
 - **Hipótesis 1:**<br>
 Creemos que al ofrecer un catálogo de cursos específicos en tecnologías emergentes, podremos aumentar el interés y la retención de estudiantes de ingeniería de software y programación en nuestra plataforma. Verificaremos esto al medir el aumento en las horas de estudio registradas y las tasas de finalización de cursos relacionados con estas tecnologías dentro de los primeros seis meses de implementación
 
@@ -259,7 +259,7 @@ Creemos que al introducir funcionalidades de gamificación y recompensas por log
 - **Hipótesis 4:**<br>
 Creemos que proporcionar certificaciones profesionales verificables y alineadas con la industria después de completar ciertos cursos, atraerá y retendrá a profesionales que buscan validar y exponer sus habilidades actualizadas. Confirmaremos el éxito si hay un aumento del 25% en la inscripción a estos cursos certificados y un seguimiento de la inserción laboral o avance profesional de los suscriptores en el transcurso de un año
 
-#### 1.2.2.4. Lean UX Canvas.
+#### 1.2.2.4. Lean UX Canvas. <a name ="1.2.2.4.">
 - **Business Problem Statement:**<br>
 La digitalización ha transformado radicalmente el acceso a la educación, creando una demanda insatisfecha de aprendizaje tecnológico especializado y colaborativo en línea. FastLearners busca abordar la falta de una plataforma integral que ofrezca no solo recursos educativos de alta calidad sino también un entorno colaborativo que fomente la interacción y el crecimiento conjunto entre programadores e ingenieros de software de todos los niveles.
 
@@ -284,7 +284,7 @@ Necesitamos entender profundamente las necesidades específicas de aprendizaje y
 - **What’s the least amount of work to learn the next most important thing?:**
 Realizar entrevistas detalladas y encuestas con una muestra representativa de nuestro público objetivo. Podría complementarse con pruebas A/B en características clave de la plataforma para recopilar rápidamente feedback valioso y ajustar nuestra oferta antes del lanzamiento oficial.
 
-## 1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivo. <a name ="1.3.">
 | | Segmento 1 | Segmento 2  |
 | - | - |-|
 | Variables                 | Estudiantes de Ingeniería de Software y Programación | Profesionales de Tecnología en Transición |
@@ -295,15 +295,15 @@ Realizar entrevistas detalladas y encuestas con una muestra representativa de nu
 
 ---
 
-# Capítulo II: Requirements Elicitation & Analysis
-## 2.1. Competidores.
+# Capítulo II: Requirements Elicitation & Analysis <a name ="cap2">
+## 2.1. Competidores. <a name ="2.1.">
 # Stack Overflow
 Stack Overflow es una plataforma de preguntas y respuestas para desarrolladores de software. Permite a los usuarios hacer preguntas sobre programación y recibir respuestas de la comunidad. La plataforma está organizada por categorías y etiquetas, facilitando la búsqueda de soluciones.
 
 # Quora
 Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hacer preguntas sobre una amplia gama de temas y recibir respuestas de la comunidad. Las preguntas y respuestas son organizadas por temas y los usuarios pueden seguir temas y personas para personalizar su experiencia. Quora también permite a los usuarios escribir respuestas largas y detalladas, fomentando el intercambio de conocimientos y experiencias.
 
-### 2.1.1. Análisis competitivo.
+### 2.1.1. Análisis competitivo. <a name ="2.1.1.">
 
 | Competitive Analysis Landscape                          |  |
 | ------------------------------------------------------- | -|
@@ -319,8 +319,9 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 | Perfil del producto                                     | Productos y servicios | Plataforma de aprendizaje para desarrolladores principiantes, con modelo de negocio Freemium | PLataforma de Q&A para programadores de todo nivel de experiencia en temas de tecnologia | Plataforma de Q&A para personas interesadas en variados temas en campos variados |
 || Precios y costos                                        | Freemium (Cuenta Premium permite visualizar material de aprendizaje extra) Gratis | Gratuito | Gratuito |
 || Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Web y Móvil Web | Web y móvil Web |
-### 2.1.2. Estrategias y tácticas frente a competidores.
 
+
+### 2.1.2. Estrategias y tácticas frente a competidores. <a name ="2.1.2.">
 
 |Competidores ->|  | FastLearners | Stack Overflow | Quora |
 |-|-|-|-|-|
@@ -329,8 +330,8 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 || Oportunidades | Colaboraciones con empresas y universidades para ofrecer contenido exclusivo y certficaciones en linea | Expansión hacia otros campos técnicos más allá del desarrollo de software | Mejora de experiencia de usuario, por medio de implementacion de caracteristicas adicionales | 
 || Amenazas      | Competencia creciente de otras empresas y startups que ofrecen servicios similares | Riesgo de contenido desactualizado que pueda afectar la credibilidad de la plataforma | Riesgo de contenido controvertido que pueda dañar la reputacion de la plataforma |
 
-## 2.2. Entrevistas.
-### 2.2.1. Diseño de entrevistas.
+## 2.2. Entrevistas. <a name ="2.2.">
+### 2.2.1. Diseño de entrevistas. <a name ="2.2.1.">
 **Preguntas generales:**
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
@@ -356,7 +357,7 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 4. ¿Qué funcionalidades consideras imprescindibles en una plataforma de aprendizaje en línea para facilitar la enseñanza y mejorar la experiencia de aprendizaje de los estudiantes?
    
 
-### 2.2.2. Registro de entrevistas.
+### 2.2.2. Registro de entrevistas. <a name ="2.2.2.">
 **Desarrollador Principiante**  
 
 Nombre: Pablo Cieza de Leon
@@ -400,7 +401,7 @@ Ocupación: Desarrollador de Software en Python
 <img src="assets/images/Entrevista3.png" alt="Mapa de impacto" style="width:100%;">
 
 
-### 2.2.3. Análisis de entrevistas.
+### 2.2.3. Análisis de entrevistas. <a name ="2.2.3.">
 **Desarrollador Principiante:**
 En esta entrevista tuvimos la oportunidad de entrevistar a Andres, el es un desarrollador de software en JavaScript, en este momento esta haciendo sus practicas en una empresa de desarrollo, como el nos comenta es principiante en el desarrollo en JS. El nos comenta que es muy complicado encontrar alguna plataforma en la cual pueda encontrar documentos multimedia, con los cuales poder mejorar sus habilidades. Tambien nos dice que estaria interesado en poder encontrar algun foro en el cual se pueda hacer consultas a desarrolladores expertos, sobre sus problemas o dudas. 
 
@@ -410,15 +411,15 @@ En esta ocasion tuvimos el placer de conversar con Rodrigo, el cuenta con mas de
 **Estudiante Junior:**
 En esta oportunidad, el estudiante de ciclos superriores destaca la importancia de herramientas interactivas y recursos multimedia para hacer el aprendizaje dinámico, además de un sistema de seguimiento del progreso y retroalimentación personalizada. En segundo plano, enfatiza  la flexibilidad en tiempo y espacio como ventajas puntuales en una plataforma en línea. Su enfoque en la enseñanza del lenguaje Python y las facilidades de este en comparaciòn de otros lenguajes, demuestra su interés en crear una experiencia educativa adaptada a las necesidades de estudiantes con menor nivel de conocimiento.
 
-## 2.3. Needfinding.
-### 2.3.1. User Personas.
+## 2.3. Needfinding. <a name ="2.3.">
+### 2.3.1. User Personas. <a name ="2.3.1.">
 **Segmento 1:** Desarrolladores principiantes con dificultades de encontrar respuestas de expertos en el tema.  
 <img src="assets/images/UserPersona1.jpg" alt="Mapa de impacto" style="width:100%;">
 
 **Segmento 2:** Desarrolladores experimentados con las ganas de poder ayudar a los principiantes en su campo.
 <img src="assets/images/UserPersona2.jpg" alt="Mapa de impacto" style="width:100%;">
 
-### 2.3.2. User Task Matrix.
+### 2.3.2. User Task Matrix. <a name ="2.3.2.">
 **Desarrolladores principiantes:** 
 |  |  User 1  | User 2 | User 3  | User 4 |
 | --- | ----------- | ------------ | ----------- | ---------- |
@@ -435,7 +436,7 @@ En esta oportunidad, el estudiante de ciclos superriores destaca la importancia 
 | Le gusta compartir sus experiencias y conocimientos con los demas | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
 | Sabe donde compartir sus conocimientos | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
 
-### 2.3.3. User Journey Mapping.
+### 2.3.3. User Journey Mapping. <a name ="2.3.3.">
 **Registration:**
 Why would they trust us?
 - Investigan sobre la plataforma
@@ -461,13 +462,14 @@ Why would they invite others?
 **Desarrollador Experto:**
 <img src="assets/images/JourneyMapExperto.png" alt="Mapa de viaje" style="width:100%;">
 
-### 2.3.4. Empathy Mapping.
+### 2.3.4. Empathy Mapping. <a name ="2.3.4.">
 **Desarrollador Principiante:**
 <img src="assets/images/Empathy Map Desarrollador Principiante.png" alt="Mapa de impacto" style="width:100%;">
 
 **Desarrollador Experto:**
 <img src="assets/images/Empathy Map Desarrollador Experto.png" alt="Mapa de impacto" style="width:100%;">
-### 2.3.5. As-is Scenario Mapping.
+
+### 2.3.5. As-is Scenario Mapping. <a name ="2.3.5.">
 
 **Desarrollador Principiante**  
 Escenario: El desarrollador principiante esta aprendiendo a desarrollar aplicaciones web utilizando HTML, CSS y JavaScript mediante un curso en linea
@@ -489,7 +491,7 @@ As Is:
 | Thinking | "¿Como podemos garantizar que la aplicacion cumpla con las expectativas del cliente?" | "¿Cual es la mejor manera de garantizar la estabilidad y eficiencia?" | "¿Como podemos optimizar el rendimiento de la aplicacion?" | "¿Que estrategias de prueba y depuracion utilizaremos?" |
 | Feeling  | Comprometido con el exito del proyecto | Concentrado en encontrar soluciones rapidas | Confianza en el equipo para cumplir con los plazos | Determinado a superar cualquier problema |
 
-## 2.4. Ubiquitous Language.
+## 2.4. Ubiquitous Language. <a name ="2.4.">
 
 ```
 Desarrollador principiante:
@@ -503,8 +505,8 @@ Persona interesada en nuestra aplicacion para poder compartir su experiencia, tr
 
 ---
 
-# Capítulo III: Requirements Specification
-## 3.1. To-Be Scenario Mapping.
+# Capítulo III: Requirements Specification <a name ="cap3">
+## 3.1. To-Be Scenario Mapping. <a name ="3.1.">
 
 Segmento 1: El desarrollador principiante esta aprendiendo a desarrollar aplicaciones web utilizando HTML, CSS y JavaScript mediante un curso en linea
 
@@ -523,7 +525,7 @@ Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicac
 | Feeling  | Se siente emocionado por liderar un proyecto importante y por la oportunidad de aplicar sus habilidades y experiencia en un entorno empresarial.| Se siente orgulloso del progreso que el equipo ha logrado hasta ahora y está motivado para superar los desafíos restantes.| Se siente confiado en la calidad de la aplicación que están desarrollando y en su capacidad para entregar un producto final exitoso a la empresa cliente. |
 
 
-## 3.2. User Stories.
+## 3.2. User Stories. <a name ="3.2.">
 
 | Epic/User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |---------------------|--------|-------------|--------------------------|---------------------------|
@@ -558,11 +560,11 @@ Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicac
 | HU29 | Acceder a recursos de aprendizaje sobre tecnologías emergentes | Como usuario experto, quiero acceder a recursos de aprendizaje sobre tecnologías emergentes en programación web, como inteligencia artificial y realidad virtual, para mantenerme actualizado en las últimas tendencias. | - Escenario 1: Dado que soy un usuario experto, cuando accedo a la sección de recursos de aprendizaje, entonces encuentro una categoría específica para tecnologías emergentes en programación web, como inteligencia artificial y realidad virtual.<br /> - Escenario 2:Dado que soy un usuario experto, cuando accedo a un recurso de aprendizaje sobre una tecnología emergente, entonces encuentro contenido actualizado y relevante, con casos de estudio y ejemplos prácticos de aplicación en la programación web. | - |
 | HU30 | Consultar estadísticas de progreso | Como usuario registrado, quiero poder consultar estadísticas detalladas de mi progreso en los cursos para saber en qué áreas necesito mejorar. | - Escenario 1: Dado que soy un usuario registrado, cuando accedo a la sección de estadísticas, entonces puedo ver mi progreso detallado en cada curso, incluyendo tiempo dedicado, módulos completados y calificaciones obtenidas.<br /> - Escenario 2: Dado que soy un usuario registrado, cuando consulto las estadísticas, entonces puedo ver recomendaciones personalizadas basadas en mi rendimiento y áreas de mejora. | - |
 
-## 3.3. Impact Map.
+## 3.3. Impact Map. <a name ="3.3.">
 
 <img src="assets/images/impact-map.jpg" alt="Mapa de impacto" style="width:100%;">
 
-## 3.4. Product Backlog.
+## 3.4. Product Backlog. <a name ="3.4.">
 
 | #Order | User Story ID | Título | Descripción | Story Points |
 |--------|---------------|--------|-------------|--------------|
@@ -597,9 +599,9 @@ Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicac
 | 29 | HU29 | Acceder a recursos de aprendizaje sobre tecnologías emergentes | Como usuario experto, quiero acceder a recursos de aprendizaje sobre tecnologías emergentes en programación web, como inteligencia artificial y realidad virtual, para mantenerme actualizado en las últimas tendencias. | 2 |
 | 30 | HU30 | Consultar estadísticas de progreso | Como usuario registrado, quiero poder consultar estadísticas detalladas de mi progreso en los cursos para saber en qué áreas necesito mejorar. | 3 |
 
-# Capítulo IV: Product Design
-## 4.1. Style Guidelines.
-### 4.1.1. General Style Guidelines.
+# Capítulo IV: Product Design <a name ="cap4">
+## 4.1. Style Guidelines. <a name ="4.1.">
+### 4.1.1. General Style Guidelines. <a name ="4.1.1.">
 
 **Branding** 
 
@@ -641,7 +643,7 @@ Como parte de los colores secundarios hemos elegido el Payne’s gray (495867), 
 
 <img src="assets/images/Fonts.png" alt="Logo de la empresa" style="width:50%;">
 
-### 4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines. <a name ="4.1.2.">
 
 **Elementos visuales (Imágenes y videos):**
 
@@ -655,15 +657,15 @@ Como parte de la interacción del usuario con nuestro sitio web, es necesario im
 
 También se utilizarán formularios en páginas dedicadas al inicio de sesión, registro de usuario, subir documentos, etc. Estos se van a implementar de acuerdo al tipo de usuario que se ha identificado, que en nuestro caso sería un desarrollador principiante y uno experimentado. 
 
-## 4.2. Information Architecture.
-### 4.2.1. Organization Systems.
+## 4.2. Information Architecture. <a name ="4.2.">
+### 4.2.1. Organization Systems. <a name ="4.2.1.">
 
 Para mostrar el contenido de nuestra plataforma hemos decidido utilizar una estructura jerárquica y secuencial, lo cual dependerá de la necesidad sobre cómo presentar la información al usuario. Por ejemplo, para el inicio de sesión y el registro del usuario se tendrá que hacer más énfasis en el formulario para ingresar los datos de registro y de ingreso, además de los botones para confirmar la acción. 
 Por otra parte, las actividades principales o el “core” del negocio tendrán utilizar una estructura secuencial. Esto se puede evidenciar más en la funcionalidad del foro, ya que el usuario tiene que seguir una serie de pasos en específico para interactuar con la aplicación (crear un nuevo post, escribir un comentario en un post, calificar el comentario de un usuario, etc.).  Esta lógica es casi la misma con las demás funcionalidades de nuestra aplicación web como el manejo de repositorios compartidos (código o documentación) y la subida y consumo del material multimedia.
 
 <img src="assets/images/OrgSystems.jpg" alt="Organizational Systems" style="width:100%;">
 
-### 4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems. <a name ="4.2.2.">
 
 Como parte del diseño de la aplicación, se utilizarán etiquetas en la parte superior de la página web para indicar cuál es el contenido que está viendo. Además, se podrá interactuar con ellas para acceder a las demás secciones y funcionalidades de la aplicación. 
 
@@ -671,7 +673,7 @@ Como parte del diseño de la aplicación, se utilizarán etiquetas en la parte s
 
 **Etiquetas después de iniciar sesión:** Foro estudiantil, Buscar repositorios y/o documentación, Videos educativos, Configuración de la cuenta.
 
-### 4.2.3. SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags <a name ="4.2.3.">
 
 **Meta & SEO (Search Engine Optimization) Tags:** 
 
@@ -691,22 +693,22 @@ Los SEO (Search Engine Optimization) y Meta tags son datos que sirven para ident
 * ```<meta name= “autor” content=“FastLearners”>```
 * ```<meta name="copyright" content="Copyright FastLearners Group" />```
 
-### 4.2.4. Searching Systems.
+### 4.2.4. Searching Systems. <a name ="4.2.4.">
 
 Los usuarios podrán buscar el tipo de contenido que deseen por medio de un menú que se presentará en la página principal del sitio luego de haber iniciado sesión. En esta encontrará las opciones entrar a los foros, buscar repositorios y/o documentación de cualquier tema, buscar videos relevantes y también poder modificar los datos de su cuenta. En cada uno de los tres primeros ítems se podrá filtrar la información en base al el tema de desarrollo, las herramientas de desarrollo utilizadas (lenguaje de programación, frameworks, etc.), la fecha de publicación, los tags y el autor del material.
 
 
-### 4.2.5. Navigation Systems.
+### 4.2.5. Navigation Systems. <a name ="4.2.5.">
 
 El sistema de navegación de nuestro sitio web consta de menús de navegación superior e inferior dentro de la landing page, en los cuales podrás elegir las opciones de inicio de sesión, registrarse, leer sobre el equipo de desarrollo y las suscripciones disponibles. También se podrá desplazar verticalmente por las páginas del sitio para mostrar más información. 
 
 Luego de haber iniciado sesión, el usuario accederá a un menú de carácter jerárquico en el cual se mostrarán las opciones principales de la aplicación (Foro estudiantil, Buscar repositorios y/o documentación, Videos educativos, Configuración de la cuenta). Cada una de estas opciones te llevará a su respectiva página, de la cual podrás regresar al menú anterior seleccionando una opción de regresar a la siguiente página. Cada menú del sitio cuenta con botones que pueden ser distinguidos con facilidad de otros objetos en la interfaz, lo cual ayudará de una manera significativa con la navegación. 
 
-## 4.3. Landing Page UI Design.
+## 4.3. Landing Page UI Design. <a name ="4.3.">
 
 [Enlace para el diseño en Figma](https://www.figma.com/file/HsQCNin8NFygNbCSOwD3Sg/FastLearners-Apps-Web?type=design&node-id=0%3A1&mode=design&t=sKkgqgWjpviPyy3k-1)
 
-### 4.3.1. Landing Page Wireframe.
+### 4.3.1. Landing Page Wireframe. <a name ="4.3.1.">
 
 #### Desktop Wireframe: 
 
@@ -728,7 +730,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 <img src="assets/capituloIV/LandingPageWFMobile2.png" alt="Landing Page WF" style="width:80%;">
 
-### 4.3.2. Landing Page Mock-up.
+### 4.3.2. Landing Page Mock-up. <a name ="4.3.2.">
 
 #### Desktop Mockup:
 
@@ -750,8 +752,8 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 <img src="assets/capituloIV/LandingPageMKMobile2.png" alt="Landing Page MK" style="width:80%;">
 
-## 4.4. Web Applications UX/UI Design.
-### 4.4.1. Web Applications Wireframes.
+## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
+### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
 
 #### Desktop Wireframes: 
 
@@ -818,7 +820,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 <img src="assets/capituloIV/WebAppWFMobile6.png" alt="WebApp WF" style="width:30%;">
 
-### 4.4.2. Web Applications Wireflow Diagrams.
+### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
 
 **User Goal 1: Crear una cuenta**
 <img src="assets/capituloIV/UserGoal1.png" alt="WebApp WF" style="width:100%;">
@@ -843,7 +845,7 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 [URL del Lucid Chart](https://lucid.app/lucidchart/92b69941-7705-4dec-9366-547a7e087cc2/edit?viewport_loc=-8135%2C-1682%2C5760%2C1973%2C0_0&invitationId=inv_2bcea016-61dc-4109-809c-fd32c5d9ef23)
 
-### 4.4.3. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
 
 **Inicio de sesión:**
 <img src="assets/capituloIV/WebAppMK1.png" alt="WebApp MK" style="width:100%;">
@@ -907,11 +909,11 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 <img src="assets/capituloIV/WebAppMKMobile6.png" alt="WebApp WF" style="width:30%;">
 
-### 4.4.4. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
 
 <img src="assets/capituloIV/UserFlowDiagram.png" alt="User Flow Diagram" style="width:100%;"> 
 
-## 4.5. Web Applications Prototyping.
+## 4.5. Web Applications Prototyping. <a name ="4.5.">
 
 Hemos desarrollado nuestro prototipo en la plataforma Figma: 
 
@@ -919,10 +921,10 @@ Hemos desarrollado nuestro prototipo en la plataforma Figma:
 
 [URL del Prototipo](https://www.figma.com/proto/HsQCNin8NFygNbCSOwD3Sg/FastLearners-Apps-Web?page-id=0%3A1&type=design&node-id=10-658&viewport=935%2C-380%2C0.07&t=n5T9d6Gv9XZRvmOa-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design)
 
-## 4.6. Domain-Driven Software Architecture.
+## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
 El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua del ámbito del problema, fomentando una visión compartida del dominio en cuestión. Al adoptar un enfoque diferente, DDD facilita una colaboración más efectiva entre los desarrolladores y los expertos en el dominio, al tiempo que promueve el uso de un lenguaje común. Además de esto, DDD implica la aplicación de una serie de procedimientos, patrones y diagramas de arquitectura para alinear el software con el dominio y fortalecer su enfoque.
 
-### 4.6.1. Software Architecture Context Diagram.
+### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock (gestion) y otro enfocado en los proveedores (suministros)) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse (se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis).
@@ -930,20 +932,20 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/f1073f21-fa10-419a-9b84-15b7ff536773)
 
    
-### 4.6.2. Software Architecture Container Diagrams.
+### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
 
 ![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/657e159c-f2f6-49d8-82c9-d5bf292c0ba0)
 
 
-### 4.6.3. Software Architecture Components Diagrams.
+### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 
 ![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/52b84c60-6cc4-47ca-96dc-9a96be222f4c)
 
 
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
+## 4.7. Software Object-Oriented Design. <a name ="4.7.">
+### 4.7.1. Class Diagrams. <a name ="4.7.1.">
 Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
 Se agregaron distintos patrones, entre ellos:
 1.  Patrón Composite:
@@ -952,7 +954,7 @@ Se agregaron distintos patrones, entre ellos:
 ![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/2fe59996-ab23-462f-945d-cd16a3462420)
 
 
-### 4.7.2. Class Dictionary.
+### 4.7.2. Class Dictionary. <a name ="4.7.2.">
 Para el diccionario de clases, se presentan las más importantes
 
 ### User
@@ -1050,18 +1052,18 @@ Membership representa la clase del tipo de membresía.
 | Regular    | Representa la membresía Regular              |
 | Pro | Representa la membresía Pro      |
 
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
+## 4.8. Database Design. <a name ="4.8.">
+### 4.8.1. Database Diagram. <a name ="4.8.1.">
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
 
 ![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/0fa8fddb-9bb6-47a7-ac75-a53c519264cb)
 
 
-# Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V: Product Implementation, Validation & Deployment <a name ="cap5">
 
-## 5.1. Software Configuration Management.
+## 5.1. Software Configuration Management. <a name ="5.1.">
 
-### 5.1.1. Software Development Environment Configuration.
+### 5.1.1. Software Development Environment Configuration. <a name ="5.1.1.">
 
 ### Requirements Management
    1. Canva: Es una herramienta de diseño utilizada para realizar los user persona y los empathy mapping de nuestros segmentos. Esta aplicacion esta basada en un sistema de diseño simple en el cual puedes mover y editar         objetos para lograr el objetivo de diseñas nuestras piezas escenciales de analisis de mercado para nuestra aplicacion. Ruta de referencia: <https://www.canva.com/es_es/>
@@ -1076,7 +1078,8 @@ Un diagrama de base de datos es una herramienta visual que representa la estruct
    1. Git: Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicacion. Los miembros del equipo accederán por medio de linea de  comandos en su consola. Ruta de referencia: <https://git-scm.com/>
 ### Software Documentation and Project Management
    1. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git todo por medio de repositorios. Esto nos facilitará la colaboracion en tiempo real y la revision de    nuestros aportes al proyecto por parte de cada miembro del equipo. Ruta de referencia <https://github.com/>
-### 5.1.2. Source Code Management.
+
+### 5.1.2. Source Code Management. <a name ="5.1.2.">
 El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando GitHub como plataforma y sistema de control de versiones. Será compartido los URLs de nuestros repositorios en GitHub para nuestra Landing Page y seguirá siendo implementado en nuestros demás productos de nuesto proyecto.
 
 ### Repositorio de GitHub:
@@ -1084,7 +1087,7 @@ URL para acceder a nuestra organizacion de GitHub <https://github.com/Aplicacion
 
 URL para acceder a nuestra Landing Page <https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage>
 
-### 5.1.3. Source Code Style Guide & Conventions.
+### 5.1.3. Source Code Style Guide & Conventions. <a name ="5.1.3.">
 El Lenguaje de Marcado de Hipertexto (HTML) es fundamental para estructurar y presentar el contenido en páginas web. La convención comúnmente utilizada para la página principal de un sitio web es nombrarla index.html.
 Aquí están algunas convenciones clave para el uso de HTML:
 1.	Utilizar nombres de elementos en minúsculas para mantener la consistencia y la legibilidad del código.
@@ -1126,7 +1129,7 @@ Gherkin es un lenguaje simple y estructurado diseñado para escribir escenarios 
 6.	Utiliza comentarios para proporcionar contexto adicional o explicaciones sobre tus escenarios de Gherkin, especialmente útiles para explicar decisiones de diseño o comportamientos complejos.
 7.	Colabora con otros miembros del equipo para revisar y refinar tus escenarios de Gherkin, asegurándote de que sean comprensibles y reflejen con precisión los requisitos del negocio.
 
-### 5.1.4. Software Deployment Configuration.
+### 5.1.4. Software Deployment Configuration. <a name ="5.1.4.">
 Configuraciones de donde y como deployeamos el proyecto
 
 Netlify es una plataforma de alojamiento web y despliegue continuo que simplifica el proceso de lanzamiento de sitios web y aplicaciones estáticas. Ofrece y funciona de la siguiente manera:
@@ -1136,11 +1139,11 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 3. Permite generar vistas previas automáticas para cada rama de tu repositorio, lo que facilita la visualización de cambios antes de integrarlos a la rama principal, favoreciendo la colaboración y revisión de código.
 4. Netlify facilita la configuración de publicaciones automáticas para cada pull request o fusión en tu repositorio, activando la construcción y publicación con cada actualización, manteniendo tu sitio al día con la última versión del código.de construcción y despliegue, asegurando que tu sitio esté siempre actualizado con la última versión de tu código.
 
-## 5.2. Landing Page, Services & Applications Implementation.
+## 5.2. Landing Page, Services & Applications Implementation. <a name ="5.2.">
 
-### 5.2.1. Sprint 1
+### 5.2.1. Sprint 1 <a name ="5.2.1.">
 
-#### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.1. Sprint Planning 1. <a name ="5.2.1.1.">
 
 | Sprint # | Sprint 1 |
 |----------|----------|
@@ -1155,7 +1158,7 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 | Sprint 1 Velociy | 8 |
 | Sum of Story Point | 6 |
 
-#### 5.2.1.2. Sprint Backlog 1.
+#### 5.2.1.2. Sprint Backlog 1. <a name ="5.2.1.2.">
 
 En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementar la landing page de manera funcional. Para la gestión de los equipos y para tener una mejor organización se usó la herramienta Jira Software de Atlassian. El objetivo de nuestro primer sprint era implementar la landing page de FastLearners en su totalidad, para que, de esta manera, se logre captar la atención del usuario. No obstante, por motivos de falta de tiempo y una organización que no resultó ser lo suficientemente adecuada solo se logró tener una landing page estática y con la mayoría de las páginas planeadas en los wireframes, pero no todas.
 
@@ -1179,7 +1182,7 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 | HU10 | Acceder a ejemplos de código y proyectos | T12 | Documentación de Ejemplos de Código | Se crea el readme para entender como funciona cada código | 6 | Pachas Chavez, Alejandro Alberto | To-do |
 
 
-#### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review. <a name ="5.2.1.3.">
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |------------|--------|-----------|----------------|---------------------|------------------|
@@ -1192,14 +1195,14 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 | [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage | 9e9d96 | Added Footer | Added Footer | 06/04/2024 |
 
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.1.4.">
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 | [https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage) | FastLearnersLandingPage/Features | 21482d5 | Added Aceptance Test | Added Aceptance Test | 08/04/2024 |
 
 
-#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review. <a name ="5.2.1.5.">
 
 En el Sprint 1 logramos un desarrollo parcial de la planificación, diseño e implementación del landing page. En el mismo podemos encontrar las secciones que el usuario puede encontrar acerca de la StartUp y del producto que ofrecemos. A continuación se muestran las evidencias:
 
@@ -1215,11 +1218,11 @@ En esta sección, el usuario puede observar los demás recursos que le ofrecemos
 En esta sección, el usuario puede observar los planes de suscripción que ofrece FastLearners
 <img src="assets/images/LandingPage3.png" alt="PlanesYSuscripciones" style="width:100%;">
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review. <a name ="5.2.1.6.">
 
 Para la realización de este Sprint no se ha considerado la evidencia de la documentación de servicios.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review. <a name ="5.2.1.7.">
 
 Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente, de manera parcial ya que no se logró implementar todo lo planeado.
 
@@ -1233,7 +1236,7 @@ Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente
 
 Enlace para visualizar la landing page: <https://aplicacioneswebsw52-fastlearners.github.io/FastLearnersLandingPage/> 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint. <a name ="5.2.1.8.">
 
 | Alumno | Actividad |
 |--------|-----------|
@@ -1247,8 +1250,8 @@ Enlace para visualizar la landing page: <https://aplicacioneswebsw52-fastlearner
 
 ![Ver todos los commits en GitHub (Landing Page)](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage)
 
-### 5.2.2 Sprint 2
-#### 5.2.2.1 Sprint Planning 2
+### 5.2.2 Sprint 2 <a name ="5.2.2.">
+#### 5.2.2.1 Sprint Planning 2 <a name ="5.2.2.1.">
 Nuestro Segundo Sprint #2 comienza el 15/04/2024 y tiene como finalidad resolver los comentarios recibidos del Sprint 1, realizar el FrontEnd.
 
 | Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
@@ -1262,7 +1265,7 @@ Nuestro Segundo Sprint #2 comienza el 15/04/2024 y tiene como finalidad resolver
 | Creación de Servicios Base                                                            |                     
 
 
-#### 5.2.2.2 Sprint Backlog
+#### 5.2.2.2 Sprint Backlog <a name ="5.2.2.2.">
 En nuestro segundo Sprint Backlog, logramos completar la landing page, el producto base del front end de la web application. Además de crear segmentos base.
 
 | Id   | Title                                               | Id   | Title                                              | Description                                                                      | Estimation (Hours) | Assigned To        | Status (ToDo/In Process/ToReview/Done) |
@@ -1278,7 +1281,7 @@ En nuestro segundo Sprint Backlog, logramos completar la landing page, el produc
 | HU19 | Realizar proyectos prácticos                      | TK19 | Segmento de creación de proyectos prácticos      | Crear segmento para que el usuario pueda practicar creando proyectos prácticos   | 5                  | Alejandro Pachas         | To Do                                  |
 | HU20 | Acceder a recursos de referencia                  | TK20 | Segmento de recursos de referencia                | Crear segmento para que el usuario pueda acceder a recursos de referencia        | 5                  | Santiago Olvera, Carlos Ochoa | To Do          |
 
-#### 5.2.2.3 Development Evidence for Sprint Review
+#### 5.2.2.3 Development Evidence for Sprint Review <a name ="5.2.2.3.">
 
 En esta parte se muestran los commits realizados durante el segundo sprint.
 
@@ -1298,7 +1301,7 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 | https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-Frontend | FastLearners-Frontend | a132e75 | Se creo la template y se le agrego el style | Se creo la template y se le agrego el style | 03/05/2024 |
 
 
-#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review <a name ="5.2.2.4.">
 
 Incluimos el código de los .feature en formato Gherkin en el directorio features/, cada Feature se relaciona a un User Story de nuestro Sprint 1.
 
@@ -1307,7 +1310,7 @@ Incluimos el código de los .feature en formato Gherkin en el directorio feature
 | https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report | https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/main | 03/05/2024 | 
 
 
-#### 5.2.2.5.Execution Evidence for Sprint Review
+#### 5.2.2.5.Execution Evidence for Sprint Review <a name ="5.2.2.5.">
 
 En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up, por otro lado se realizo un desarrollo parcial de la aplicacion web, la cual permite que el usuario navegue por ciertas opciones que ofrecemos. A continuacion algunas evidencias de la aplicación web desplegada:
 
@@ -1324,11 +1327,11 @@ US03:
 US04:
 ![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/blob/74d494058366fec85c28d7c23d9df6260f68821a/assets/images/Multimedia.png)
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review:
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review: <a name ="5.2.2.6.">
 
 Durante el sprint 2 unicamente se planifico que el sprint conformaria el desarrollo de la landing page y el front-end, por ello no llevamos a cabo algun desarrollo de una API, pero que mas adelante si se llevará a cabo para que nuestros usuarios tengan acceso al contenido completo de nuestro producto.
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review:
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review: <a name ="5.2.2.7.">
 
 En este sprint hemos desplegado la landing page actualizada de nuestra aplicación web junto al frontend por distintas plataformas. 
 
@@ -1373,7 +1376,7 @@ También utilizamos My JSON Server para simular la funcionalidad del backend:
 
 Link de la aplicación web desplegada: https://fastlearners-appsweb.web.app/
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.8.Team Collaboration Insights during Sprint. <a name ="5.2.2.8.">
 
 | Alumno | Actividad |
 |--------|-----------|
@@ -1398,9 +1401,9 @@ Se utilizó la misma landing page del trabajo del curso de Open Source.
 ![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/3b22e516-1d28-461c-aec6-df49e3299082)
 
 
-### 5.2.3. Sprint 3
+### 5.2.3. Sprint 3 <a name ="5.2.3.">
 
-#### 5.2.3.1. Sprint Planning 3
+#### 5.2.3.1. Sprint Planning 3 <a name ="5.2.3.1.">
 
 Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver los comentarios recibidos del Sprint 2, realizar el BackEnd, asímismo hacer los servicios necesarios según nuestras User Stories
 
@@ -1414,7 +1417,7 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 | Realizar el Back End de la web application utilizando .NET y C# | 65 | 65              |
 | Creación de Servicios y implementación con Azure y Dockers    |20 | 20|     
 
-#### 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.2. Sprint Backlog 3 <a name ="5.2.3.2.">
 
 | Historia de Usuario | Title                                   | Id   | Title                           | Description                                               | Estimation (Hours) | Assigned To | Status (ToDo/InProcess/ToReview/Done) |
 |---------------------|-----------------------------------------|------|---------------------------------|-----------------------------------------------------------|--------------------|-------------|--------------------------------------|
@@ -1448,25 +1451,25 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 |                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
 
 
-#### 5.2.3.3. Development Evidence for Sprint Review
+#### 5.2.3.3. Development Evidence for Sprint Review <a name ="5.2.3.3.">
 
 | Repository | Branch | Commit Message | Commit ID |
 |------------|--------|----------------|-----------|
 | | | |
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review <a name ="5.2.3.4.">
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
 |https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/tree/main | main | 10/06/2024 |
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review <a name ="5.2.3.5.">
 
 Se desarrollaron los web services correspondientes al backend de la aplicación web.
 
 **Link del repositorio:** https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW 
 
-#### 5.2.3.6.  Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6.  Services Documentation Evidence for Sprint Review. <a name ="5.2.3.6.">
 
 Entorno de desarrollo en Rider: 
 
@@ -1477,11 +1480,11 @@ Visualización e interacción con la API por Swagger:
 ![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/36f83c56-c4eb-4c87-b9ae-5ac1b6f4a88c)
 
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. <a name ="5.2.3.7.">
 
 Se intentó desplegar el backend en Azure sin éxito, se tendrá que remediar en el siguiente sprint. 
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint <a name ="5.2.3.8.">
 
 | Alumno | Actividad |
 |--------|-----------|
@@ -1618,9 +1621,9 @@ Repositorio Backend:
 
 
 
-## 5.3. Validation Interviews.
+## 5.3. Validation Interviews. <a name ="5.3.">
 
-### 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas. <a name ="5.3.1.">
 
 Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
 
@@ -1655,7 +1658,7 @@ e. ¿Lograste revisar los repositorios? ¿Alguno de tu interes? <br>
 d. ¿Lograste revisar los recursos multimedia? ¿Te parece una buena herramienta de estudio? <br>
 f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti? <br>
 
-### 5.3.2. Registro de Entrevistas.
+### 5.3.2. Registro de Entrevistas. <a name ="5.3.2.">
 
 Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
 
@@ -1681,7 +1684,7 @@ Como cuarta entrevista tenemos a Agustin Ruiz, el nos comenta que trabaja hace 2
 
 Y para finalizar con nuestras entrevistas tenemos a Rodrigo Vertiz, nos comenta que es su primer año en la carrera de Ingenieria de Software, y que le gustaria avanzar por su cuenta con algunos temas de programacion. Por ello, le daremos un recorrido por nuestra Landing Page y nuestra Web Application. Al finalizar nuestro recorrido, no comenta que los servicios que le brindamos a nuestros usuarios le parecen excelente, al igual que la manera de aprender con material que le sirvio a expertos y de igual modo la interfaz y el manejo del producto, es sencillo y visualmente accesible para todos.
 
-### 5.3.3. Evaluaciones según heurísticas.
+### 5.3.3. Evaluaciones según heurísticas. <a name ="5.3.3.">
 
 **Site o App a evaluar:** FastLearners
 
@@ -1776,21 +1779,34 @@ Al iniciar sesion, existe un boton para los usuarios si es que llegaron a olvida
 **Recomendacion:**
 Para lograr solucionar el problema del usuario, se deberia generar una vista en la cual el usuario ingrese su correo electronico o su numero telefonico para que le envien un codigo o link de recuperacion de contraseña, de esta manera solucionando el problema  
 
-## 5.4. Video About-the-Product.
+## 5.4. Video About-the-Product. <a name ="5.4.">
+
+
+
 # Conclusiones y recomendaciones.
 
 ## Conclusiones
 
-**Conclusiones específicas**
+1. Necesidad del mercado: La investigación realizada demostró una clara demanda en el mercado de tecnología educativa, destacando la necesidad de plataformas de aprendizaje colaborativo para profesionales técnicos. &nbsp;
 
-* La plataforma se encuentra en etapa temprana de desarrollo (prototipo funcional para crear repositorios, subir archivos y gestionar usuarios). &nbsp;
-* Logramos validar de manera eficaz la necesidad de nuestros usuarios con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
-* Hubo cierta dificultad para desarrollar el plan de negocios que pueda ser estable, dado que primero tenemos que asegurar el bienestar económico de la startup. &nbsp;
-* Creado un equipo de desarrollo con las habilidades y experiencia necesarias para llevar a cabo el proyecto. &nbsp;
+2. Contribución al campo de la educación tecnológica: FastLearners contribuye significativamente al campo de la educación tecnológica al ofrecer un espacio colaborativo que combina teoría y práctica a través de repositorios y herramientas compartidas. &nbsp;
 
-**Próximos pasos**
+3. Interés del usuario: Los usuarios mostraron un alto interés en las funcionalidades propuestas, particularmente en las áreas de colaboración y acceso a recursos educativos exclusivos, lo que refuerza el valor del modelo de negocio freemium de la plataforma. &nbsp;
 
-* Completar el desarrollo de la plataforma (funcionalidades restantes e integración con herramientas de terceros). &nbsp;
+4. Desarrollo tecnológico: El equipo de desarrollo logró implementar soluciones técnicas avanzadas que facilitan la gestión eficaz de contenidos y la interacción del usuario, asegurando una experiencia fluida y enriquecedora. &nbsp;
+
+5. Retos enfrentados: El proyecto enfrentó desafíos en términos de escalabilidad y gestión de datos, que fueron abordados con la implementación de tecnologías adecuadas y arquitectura escalable. &nbsp;
+
+6. Feedback del usuario: El feedback de los usuarios durante las pruebas del prototipo fue crucial para iterar y mejorar las características de la plataforma, asegurando que las funcionalidades cumplieran con las expectativas del usuario. &nbsp;
+
+7. Impacto educativo: FastLearners tiene el potencial de impactar positivamente en la educación de programadores e ingenieros de software, proporcionando un recurso valioso para el aprendizaje continuo y el desarrollo profesional. &nbsp;
+
+8. Sostenibilidad del proyecto: A pesar de los desafíos iniciales relacionados con la financiación y el modelo de negocio, el proyecto demostró su sostenibilidad a largo plazo con un enfoque en la monetización de servicios premium y la expansión de la base de usuarios. &nbsp;
+
+9. Contribuciones al conocimiento común: El proyecto contribuyó al conocimiento común en la comunidad de desarrollo de software al compartir abiertamente los resultados del aprendizaje y las mejoras en la plataforma. &nbsp;
+
+10. Planes futuros: Se planificaron futuras expansiones de características, incluyendo herramientas de análisis de datos avanzadas y personalización del aprendizaje, para mejorar aún más la eficacia y la accesibilidad de la plataforma. &nbsp;
+
 
 # Bibliografía
 
