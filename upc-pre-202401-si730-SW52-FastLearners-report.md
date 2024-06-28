@@ -1576,7 +1576,14 @@ Del HU23 al HU30, todas las tasks son para expandir y mejorar los servicios de F
 
 | Repository | Branch | Commit Message | Commit ID |
 |------------|--------|----------------|-----------|
-
+|https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW|main|Merge pull request #17 from AplicacionesWebSW52-FastLearners/feature/tests_services	|0f7b4b4|
+|https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW|main|Merge pull request #16 from AplicacionesWebSW52-FastLearners/feature/swagger_config	|1c7f0d8|
+|https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW|main|Merge pull request #15 from AplicacionesWebSW52-FastLearners/fix/user_service_update|8e4b7f0|
+|https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW|main|Merge pull request #14 from AplicacionesWebSW52-FastLearners/feature/db_config|e4b8a4f|
+|https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW|main|Update README.md	|a2f4d8d|
+|https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW|main|Merge pull request #13 from AplicacionesWebSW52-FastLearners/feature/logging|b0e7e5d|
+|https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW|main|Merge pull request #12 from AplicacionesWebSW52-FastLearners/feature/user_service|4739b3a|
+|https://github.com/AplicacionesWebSW52-FastLearners/FastLearners-WebServices-AW|main|Initial commit|6a0c6ff|
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review 4 <a name ="5.2.4.4.">
 
