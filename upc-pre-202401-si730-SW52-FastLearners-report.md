@@ -1807,9 +1807,11 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 ## 5.4. Video About-the-Product. <a name ="5.4.">
 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/53338568-bec2-4580-a208-4700b62d5a35)
+
 En el video About the Product se muestra la funcionalidad y características principales de nuestra aplicación y el modelo de negocio que se va a aplicar para generar ganancias. Además, se brinda un testimonio de un usuario que calificó de buena manera la interacción con nuestra plataforma. 
 
-**Enlace al video en Microsoft Stream::
+**Enlace al video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EWbLlxnLi-ZMn2LEOl3V5lIB7Hahh8wvR7zOcRIwYpl3KQ?e=NCkILw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
 # Conclusiones y recomendaciones.
 
@@ -1837,6 +1839,8 @@ En el video About the Product se muestra la funcionalidad y características pri
 
 ## Video About The Team
 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/891c3abc-b9e4-4242-a7e3-4a38e40301b4)
+
 En el video de About the Team hemos mostrado y descrito cómo nos hemos comunicado y organizado como un equipo de trabajo durante el desarrollo de la plataforma FastLearners. En los primeros minutos nuestro compañero Jorge Orrego describe qué herramientas hemos utilizado para comunicarnos y coordinar y en la siguiente parte del video cada miembro del equipo dio un testimonio sobre su experiencia y aporte al trabajar en este proyecto, además de contar cómo lograron los objetivos del curso. 
 
 **Enlace al video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EXOzwrj_BLxGhDE3Kf9UiMwB0rAR61PoCM0rE0-JWA3I8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yKCgeL 
@@ -1862,7 +1866,7 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 **Video de exposición TP:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EWHELh7Zk91Av5t-gXeqVXkBMiaFZAZVuIfYjJazFVGMkA?e=AFuK2G
 
-**Video de exposición TF:**
+**Video de exposición TF:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EZzj404lzUJBnGB4NOjgUn0BlU0jkXglOyg6kFdFdTAzDQ?e=165uMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Video de validación de entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EeEQkZ15gUJHmOifmIIRZ74BcJx25WfUC1hzhfo7r8av0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=phJQGl 
 
