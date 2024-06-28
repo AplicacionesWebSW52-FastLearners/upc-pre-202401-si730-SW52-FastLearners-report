@@ -1672,21 +1672,21 @@ f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti? <br>
 
 ### 5.3.2. Registro de Entrevistas. <a name ="5.3.2.">
 
-Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
+Realizamos 3 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
 
 **Entrevistado N°1:  Carlos Guadalupe** 
 
 Este esta entrevista pudimos contactar con Carlos Guadalupe, estudiante de economía y entusiasta por la tecnologia y todo lo que la abarca y siempre ha querido aprender a programar en ciertos lenguajes como son Pynthon y C++, gracias a ello, nuestro producto es perfecto para el ya que exploremos junto a el Lading Page y nuestro Web Application. Luego que Matias interactue con todas las opciones y servicios que le brindamos a nuestros usuarios, nos comento, que la usabilidad del producto era muy sencilla para el usuario. Tambien nos comento que le parece una gran idea que personas experimentadas puedan compartir su propio contenido. Y como recomendacion nos dejo que estuvieramos al tanto del contenido que subian los usuarios ya que no siempre puede ser correcto y/o puede inflingir los valores que tratamos de cubrir como startup.
 
-**Entrevistado Mariel Anicama**
+**Entrevistado N°2: Mariel Anicama**
 
 En la entrevista realizada tenemos como invitada a Mariel Anicama , junto a ella realizaremos un recorrido completo por nuestra Landing Page y Web Application, en el cual podremos ver todas las funcionalidades y servicios que ofrecemos. Mariel nos menciona que ella ha empezado hace poco en la programacion y que no ha encontrado informacion personalizada a su forma de aprendizaje. Al terminar nuestro recorrido, nos dejo como observacion 3 puntos muy importante a tomar en cuenta: el primero, le parecio una super idea poder tener mas de un metodo de aprendizaje, ya sea leyendo, esuchando o viendo. Segundo, le gustaria que no descuidaramos actualizar los repositorios y materiales de estudio, ya que, estos estan en constante evolucion. Y por ultimo le gustaria poder tener una seccion de lista de reproduccion para los materiales multimedia. Puntos clave que tomaremos en cuenta en futuras actualizaciones. 
 
-**Entrevistado Luis Salinas**
+**Entrevistado N°3: Luis Salinas**
 
 Como segundo entrevistado tenemos a Luis Salinas, el es un desarrollador web, encargado del frontend. Junto a el haremos un recorrido por nuestro Landing Page y Web Application. Al terminar su recorrido nos comentó que le encanta la idea de poder compartir sus conocimientos con desarrolladores inexpertos y que le parece la mejor manera de aprender. Tambien nos deja como retroalimentacion el que hay que cuidar la estetica de nuestro producto, ya que, eso es lo que llamará a más usuarios, al igual que la facilidad de carga y descarga de contenido. 
 
-
+**Video de validación de entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EeEQkZ15gUJHmOifmIIRZ74BcJx25WfUC1hzhfo7r8av0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=phJQGl 
 
 ### 5.3.3. Evaluaciones según heurísticas. <a name ="5.3.3.">
 
@@ -1785,7 +1785,9 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 ## 5.4. Video About-the-Product. <a name ="5.4.">
 
+En el video About the Product se muestra la funcionalidad y características principales de nuestra aplicación y el modelo de negocio que se va a aplicar para generar ganancias. Además, se brinda un testimonio de un usuario que calificó de buena manera la interacción con nuestra plataforma. 
 
+**Enlace al video en Microsoft Stream::
 
 # Conclusiones y recomendaciones.
 
@@ -1811,6 +1813,12 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 10. Planes futuros: Se planificaron futuras expansiones de características, incluyendo herramientas de análisis de datos avanzadas y personalización del aprendizaje, para mejorar aún más la eficacia y la accesibilidad de la plataforma. &nbsp;
 
+## Video About The Team
+
+En el video de About the Team hemos mostrado y descrito cómo nos hemos comunicado y organizado como un equipo de trabajo durante el desarrollo de la plataforma FastLearners. En los primeros minutos nuestro compañero Jorge Orrego describe qué herramientas hemos utilizado para comunicarnos y coordinar y en la siguiente parte del video cada miembro del equipo dio un testimonio sobre su experiencia y aporte al trabajar en este proyecto, además de contar cómo lograron los objetivos del curso. 
+
+**Enlace al video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EXOzwrj_BLxGhDE3Kf9UiMwB0rAR61PoCM0rE0-JWA3I8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yKCgeL 
+
 
 # Bibliografía
 
@@ -1828,6 +1836,8 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 **Enlace del Backend desplegado:**
 
-* **Video de validación de entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EeEQkZ15gUJHmOifmIIRZ74BcJx25WfUC1hzhfo7r8av0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=phJQGl 
-* **Video About the Product:** https://youtu.be/sJkbcBbgWeM
-* **Video About the Team:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EZNPWyT38hlDo7pSjphIMXQBUBv94xlV-iSfVHQ0g8nQTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PXXZb4 
+**Video de validación de entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EeEQkZ15gUJHmOifmIIRZ74BcJx25WfUC1hzhfo7r8av0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=phJQGl 
+
+**Video About the Product:** https://youtu.be/sJkbcBbgWeM
+
+**Video About the Team:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EZNPWyT38hlDo7pSjphIMXQBUBv94xlV-iSfVHQ0g8nQTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PXXZb4 
