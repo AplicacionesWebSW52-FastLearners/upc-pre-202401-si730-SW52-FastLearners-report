@@ -1852,6 +1852,12 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 **Enlace del Backend desplegado:** https://fastlearnerswebservices.azurewebsites.net/swagger/index.html
 
+**Video de exposición TB1:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EQAm_BZtFWBCjIpZW9SKNHwBALTMNwcX8LsdV8syHmPb0A?e=0ShJtH
+
+**Video de exposición TP:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EWHELh7Zk91Av5t-gXeqVXkBMiaFZAZVuIfYjJazFVGMkA?e=AFuK2G
+
+**Video de exposición TF:**
+
 **Video de validación de entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EeEQkZ15gUJHmOifmIIRZ74BcJx25WfUC1hzhfo7r8av0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=phJQGl 
 
 **Video About the Product:** https://youtu.be/sJkbcBbgWeM
