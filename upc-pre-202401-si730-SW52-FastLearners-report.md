@@ -35,19 +35,12 @@
 
 # Project Report Collaboration Insights
 
-**Commits del repositorio actual (informe TP):** 
+Commits del repositorio del TF: 
 
-![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/8616955d-bc74-46d5-99f2-1d4f6332dbb5)
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/2b3e31cd-c2bc-4732-974f-3db745699381)
 
-**Commits del repositorio actual (informe TB1):** 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/280e57ce-cc39-4816-90e4-059274d24f9b)
 
-<img src="assets/images/CommitsWeb.png" alt="Imagen del compañero" style="width:100%">
-
-**Commits del repositorio de Open Source (informe TB1):**
-
-<img src="assets/images/Commits TB1v2.png" alt="Imagen del compañero" style="width:100%">
-
-Como se trabajó el mismo proyecto que en el curso de Open Source, los commits del repositorio anterior también ayudaron al desarrollo de este informe.
 
 **Cuentas de los desarrolladores:**
 * Forasterro - Olivera Guerra, Santiago Mickelle
@@ -1642,18 +1635,24 @@ Link del despliegue: https://fastlearnerswebservices.azurewebsites.net/swagger/i
 
 Repositorio Informe: 
 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/f0ddfad0-bf1f-451e-b418-0f1543f76647)
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/ee90a1b5-e93c-4607-9dd3-b4c8398f795a)
 
 
 Repositorio Landing Page: 
 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/56346159-69a0-4306-b3c8-b0fffa7251b3)
 
 
 Repositorio Frontend: 
 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/d6002778-de1c-4f14-bc15-5b8f0dff8d12)
 
 
 Repositorio Backend: 
 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/d9bfd299-f445-4bec-913e-5f1b64f7af3b)
 
 
 ## 5.3. Validation Interviews. <a name ="5.3.">
