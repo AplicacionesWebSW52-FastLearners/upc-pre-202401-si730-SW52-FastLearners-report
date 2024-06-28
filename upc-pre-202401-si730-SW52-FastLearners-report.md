@@ -1246,7 +1246,7 @@ Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente
 
 <img src="assets/images/LandingPage4.png" alt="Landing Page" style="width:100%;">
 
-Enlace para visualizar la landing page: <https://aplicacioneswebsw52-fastlearners.github.io/FastLearnersLandingPage/> 
+Enlace para visualizar la landing page: https://aplicacioneswebsw52-fastlearners.github.io/FastLearnersLandingPage
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint. <a name ="5.2.1.8.">
 
@@ -1258,9 +1258,9 @@ Enlace para visualizar la landing page: <https://aplicacioneswebsw52-fastlearner
 | Mendez Rosales, Marco Aurelio | Desarrollo del Capítulo IV (Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design)|
 | Olivera Guerra, Santiago Mickele | Desarrollo del Capítulo II y V|
 
-![Ver todos los commits en GitHub (informe)](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report)
+**Ver todos los commits en GitHub (informe):** https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report
 
-![Ver todos los commits en GitHub (Landing Page)](https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage)
+**Ver todos los commits en GitHub (Landing Page):** https://github.com/AplicacionesWebSW52-FastLearners/FastLearnersLandingPage
 
 ### 5.2.2 Sprint 2 <a name ="5.2.2.">
 #### 5.2.2.1 Sprint Planning 2 <a name ="5.2.2.1.">
@@ -1822,7 +1822,12 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 # Anexos 
 
+**Enlace de la Landing Page:** https://aplicacioneswebsw52-fastlearners.github.io/FastLearnersLandingPage
 
-* Video de validación de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EeEQkZ15gUJHmOifmIIRZ74BcJx25WfUC1hzhfo7r8av0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=phJQGl 
-* Video About the Product: https://youtu.be/sJkbcBbgWeM
-* Video About the Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EZNPWyT38hlDo7pSjphIMXQBUBv94xlV-iSfVHQ0g8nQTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PXXZb4 
+**Enlace del Frontend desplegado:** https://fastlearners-appsweb.web.app/
+
+**Enlace del Backend desplegado:**
+
+* **Video de validación de entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EeEQkZ15gUJHmOifmIIRZ74BcJx25WfUC1hzhfo7r8av0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=phJQGl 
+* **Video About the Product:** https://youtu.be/sJkbcBbgWeM
+* **Video About the Team:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EZNPWyT38hlDo7pSjphIMXQBUBv94xlV-iSfVHQ0g8nQTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PXXZb4 
