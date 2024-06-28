@@ -1320,17 +1320,24 @@ Incluimos el código de los .feature en formato Gherkin en el directorio feature
 En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up, por otro lado se realizo un desarrollo parcial de la aplicacion web, la cual permite que el usuario navegue por ciertas opciones que ofrecemos. A continuacion algunas evidencias de la aplicación web desplegada:
 
 US01:
-![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/blob/main/assets/images/PaginaPrincipal.png)
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/ae188994-892b-4d3c-b723-3d40d86cfae8)
+
 
 US02:
-![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/blob/74d494058366fec85c28d7c23d9df6260f68821a/assets/images/CrearCuenta.png)
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/bbd105dd-1937-4ab7-a01f-4256f0660d87)
 
 
 US03:
-![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/blob/74d494058366fec85c28d7c23d9df6260f68821a/assets/images/Planes.png)
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/dac6d5f5-8c41-4774-8d11-be92dddd5ec4)
+
 
 US04:
-![imagen](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/blob/74d494058366fec85c28d7c23d9df6260f68821a/assets/images/Multimedia.png)
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/c5712483-be47-49bb-b3fd-a25b6c5c56a2)
+
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review: <a name ="5.2.2.6.">
 
