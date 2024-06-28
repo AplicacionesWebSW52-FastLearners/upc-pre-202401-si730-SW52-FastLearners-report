@@ -1582,7 +1582,7 @@ Del HU23 al HU30, todas las tasks son para expandir y mejorar los servicios de F
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
-
+|https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/tree/main | main | 10/06/2024 |
 
 #### 5.2.4.5 Execution Evidence for Sprint Review 4 <a name ="5.2.4.5.">
 
@@ -1590,22 +1590,38 @@ Se desarrollaron los web services correspondientes al backend de la aplicación 
  
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review 4 <a name ="5.2.4.6.">
 
+Hemos documentado por medio de Swagger los siguientes endpoints de nuestros Web Services: 
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/44cd7a8d-83d2-4f5f-9d84-5dac3a8ee378)
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/ab61211e-b104-425e-9a85-e3bf40202028)
+
+Database Schemas: 
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/16c71ca4-4eb6-4c20-876d-a8f5e6a2b324)
+
 
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review 4 <a name ="5.2.4.7.">
 
 **Despliegue del frontend con Firebase:** 
 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/bda0cfe0-2616-4c1a-9169-db1536544b56)
 
 
-Link del despliegue: 
-
-**Despliegue del backend con Zeabur:** 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/0e21d6b7-87c0-4125-b3bf-f6a86075781f)
 
 
+Link del despliegue: https://fastlearners-appsweb.web.app/
+
+**Despliegue del backend con Azure:** 
+
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/0e5973e0-e7ab-46cb-b60a-c566bae1af5f)
 
 
+![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/6a0811f7-5323-43ac-9922-edf0c2782e25)
 
-Link del despliegue: 
+
+Link del despliegue: https://fastlearnerswebservices.azurewebsites.net/swagger/index.html
 
 #### 5.2.4.8 Team Collaboration Insights during Sprint 4 <a name ="5.2.4.8.">
 
@@ -1834,7 +1850,7 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 **Enlace del Frontend desplegado:** https://fastlearners-appsweb.web.app/
 
-**Enlace del Backend desplegado:**
+**Enlace del Backend desplegado:** https://fastlearnerswebservices.azurewebsites.net/swagger/index.html
 
 **Video de validación de entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EeEQkZ15gUJHmOifmIIRZ74BcJx25WfUC1hzhfo7r8av0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=phJQGl 
 
