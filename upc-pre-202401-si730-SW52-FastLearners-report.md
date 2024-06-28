@@ -35,12 +35,14 @@
 
 # Project Report Collaboration Insights
 
-Commits del repositorio del TF: 
+**Commits del repositorio del TF:** 
 
 ![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/2b3e31cd-c2bc-4732-974f-3db745699381)
 
 ![image](https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/assets/89089577/280e57ce-cc39-4816-90e4-059274d24f9b)
 
+
+**Enlace del repositorio**: https://github.com/AplicacionesWebSW52-FastLearners/upc-pre-202401-si730-SW52-FastLearners-report/tree/main 
 
 **Cuentas de los desarrolladores:**
 * Forasterro - Olivera Guerra, Santiago Mickelle
